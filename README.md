@@ -179,4 +179,26 @@
 
 #### Авторизуйтесь в GitHub Desktop:  
 
-![AUTH](./readmeImages/mainBranch.jpg)
+![AUTH Options](./readmeImages/gitHubOptions.jpg)
+
+### ==>
+
+![AUTH Options](./readmeImages/gitHubSignin.jpg)
+
+### ==>
+
+![AUTH Options](./readmeImages/gitHubSignin.jpg)
+  
+#### Откройте репозиторий в Visual Studio Code
+
+![AUTH Options](./readmeImages/gitHubOpenVScode.jpg)
+
+#### После внесения изменений залейте их в репозиторий
+
+1. Нажмите "Commit to main"
+
+![AUTH Options](./readmeImages/gitHubCommit.jpg)
+
+2. Нажмите "Push origin"
+
+![AUTH Options](./readmeImages/gitHubPush.jpg)
