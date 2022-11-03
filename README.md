@@ -14,7 +14,7 @@
 
 ### !!
 
-## ВСЕ ДАННЫЕ ДОБАВЛЯЮТСЯ И УДАЛЯЮТСЯ В СООТВЕТСТВИИ С ИЗМЕНЕНИЯМИ В ФАЙЛАХ, КУРСЫ НЕ ПРОПАДАЮТ АВТОМАТИЧЕСКИ ПО ИСТЕЧЕНИЮ СРОКА, ИХ НУЖНО УДАЛЯТЬ ВРУЧНУЮ
+### ВСЕ ДАННЫЕ ДОБАВЛЯЮТСЯ И УДАЛЯЮТСЯ В СООТВЕТСТВИИ С ИЗМЕНЕНИЯМИ В ФАЙЛАХ, КУРСЫ НЕ ПРОПАДАЮТ АВТОМАТИЧЕСКИ ПО ИСТЕЧЕНИЮ СРОКА, ИХ НУЖНО УДАЛЯТЬ ВРУЧНУЮ
 
 ### !!
 
@@ -177,7 +177,7 @@
 - Установите [GitHub Desktop](https://desktop.github.com/)
 - Установите [Visual Studio Code](https://code.visualstudio.com/download), или любой другой редактор, он упростит заполнение файлов
 
-#### Авторизуйтесь в GitHub Desktop:  
+#### Авторизуйтесь в GitHub Desktop:
 
 ![AUTH Options](./readmeImages/gitHubOptions.jpg)
 
@@ -185,10 +185,6 @@
 
 ![AUTH Options](./readmeImages/gitHubSignin.jpg)
 
-### ==>
-
-![AUTH Options](./readmeImages/gitHubSignin.jpg)
-  
 #### Откройте репозиторий в Visual Studio Code
 
 ![AUTH Options](./readmeImages/gitHubOpenVScode.jpg)
