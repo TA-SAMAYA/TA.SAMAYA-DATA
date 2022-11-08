@@ -29,7 +29,30 @@
                 "uri": "",
                 "type": "audio"
             },
-            "availableDays": 90,
+            "availableDays": null,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 2,
+            "title": "Test meditation 2",
+            "description": "I had spent the prior days learning how to navigate glacial terrain and appropriately use gear.",
+            "duration": 10,
+            "accessCode": "1111",
+            "durationMeasuring": "minutes",
+            "lessonTitle": "string",
+            "banner": "",
+            "lessonContent": [
+                "Take a seat. Find place to sit that feels calm and quiet to you.",
+                "Set a time limit. ...",
+                "Notice your body. ...",
+                "Feel your breath. ..."
+            ],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": null,
             "startDate": null,
             "isAvailable": true
         }
