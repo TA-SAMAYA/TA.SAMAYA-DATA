@@ -36,7 +36,7 @@
         {
             "id": 2,
             "title": "Test meditation 2",
-            "description": "I had spent the prior days learning how to navigate glacial terrain and appropriately use gear.",
+            "description": "TEST TITLE.",
             "duration": 10,
             "accessCode": "1111",
             "durationMeasuring": "minutes",
