@@ -2,6 +2,11 @@
     "data": [
         {
             "id": 0,
+            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/banner_1.png",
+            "link": ""
+        },
+        {
+            "id": 0,
             "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/banner_2.png",
             "link": ""
         }
