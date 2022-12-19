@@ -3,7 +3,7 @@
         {
             "id": 0,
             "title": "Медитация соединения с энергией денег и роскоши",
-            "description": "Медитация для тех, кто хочет:\n•Быть всегда в ресурсе и на энергии\n•Увеличить свою финансовую ёмкость",
+            "description": "",
             "duration": 11,
             "banner": "",
             "accessCode": [
@@ -72,16 +72,16 @@
         },
         {
             "id": 3,
-            "title": "Медитация по определению и проработке личного финансового страха",
+            "title": "Практика - Состояние победителя",
             "description": "",
             "duration": 18,
             "banner": "",
             "accessCode": [
-                "3287",
-                "0912",
-                "6655",
-                "1276",
-                "2277"
+                "3020",
+                "4558",
+                "1032",
+                "1968",
+                "1943"
             ],
             "durationMeasuring": "minutes",
             "lessonTitle": "",
@@ -160,6 +160,246 @@
             "lessonContent": [
                 "Энергия - ваш главный ресурс! Эта практика поможет вам избавиться от энергетического слива, понять как и где наполняться энергий и почувствовать себя богатым человеком, который живёт в наслаждение и любви"
             ],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 7,
+            "title": "Практика - Определение личного финансового страха",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 8,
+            "title": "Практика - убираем страх на пути к мечте",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 9,
+            "title": "Медитация на сексуальную энергию",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 10,
+            "title": "Медитация спокойствия",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 11,
+            "title": "Медитация наполнение любовью",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 12,
+            "title": "Практика - Выявление/Проработка денежных убеждений",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 13,
+            "title": "Практика - Прописываем установку: деньги есть всегда",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 14,
+            "title": "Практика - Формирование поддерживающих убеждений.Опора.",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 15,
+            "title": "Практика -  Избавляемся убеждениия «я никто» +2 ваших индивидуальных",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 16,
+            "title": "Практика - Проработка папы/мамы. Обид на себя и мир",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
             "media": {
                 "uri": "",
                 "type": "audio"
