@@ -18,13 +18,265 @@
             "content": [
                 {
                     "id": 1,
-                    "title": "Практика: Папа/Мама",
+                    "title": "Точка отсчета, где я нахожусь. Очищение пространства",
                     "description": "",
-                    "duration": 40,
+                    "duration": 0,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Делаем практику и помните :\nОбиды могут быть внешними и внутренними. И каждый из двух типов влечёт за собой страдания и болезни. Если родители оскорбляют или, наоборот, игнорируют вас, причиняя внешние, очевидные обиды, выводите такие отношения на формальный уровень. Не хотят договариваться — минимизируем общение. Это адекватная модель поведения в токсичных отношениях.\n\nСамое сложное — это внутренние обиды. Нам всегда нужно стремиться к благодарности и гармонии. Осознайте, что у вас есть предназначение, найдите его и следуйте ему. Если вы не усвоите уроки судьбы, построить гармоничные отношения не получится.",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 2,
+                    "title": "Определяем свой уровень. Убираем формулу бедности. Формула контроля расходов.",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 3,
+                    "title": "Выявление/Проработка основных денежных убеждений",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 4,
+                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 5,
+                    "title": "Мотивация. Где брать энергию. Как хотеть правильно",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 4,
+                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 5,
+                    "title": "Мотивация. Где брать энергию. Как хотеть правильно",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 4,
+                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 6,
+                    "title": "Что делать чтобы желания осуществлялись. Как быть в хорошем настроении всегда",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 7,
+                    "title": "Ставим финансовую цель и делаем первые шаги. Состояние победителя - практика.",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 8,
+                    "title": "Много энергии  - много денег, ищем сливы и убираем их",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9,
+                    "title": "Формирование поддерживающих убеждений.Опора.Программируем мозг.Прописываем убеждения",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 10,
+                    "title": "Определение ступора/тормоза от своей цели. Определение личного финансового страха",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 11,
+                    "title": "Избавляемся от негативных убеждениий «я никто» +2 ваших индивидуальных",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 12,
+                    "title": "Проработка папы/мамы. Проработка обид на себя и мир",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
@@ -35,16 +287,197 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 2,
-                    "title": "Определение личного ступора к успеху",
+                    "id": 13,
+                    "title": "Проработка папы/мамы. Проработка обид на себя и мир",
                     "description": "",
-                    "duration": 40,
+                    "duration": 0,
+                    "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 14,
+                    "title": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 15,
+                    "title": "Выявление/Проработка денежных убеждений. Практика: растяжка мозга до 1млн $",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 16,
+                    "title": "Контроль расходов, первые шаги к достижению финансовой безопасности",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 16,
+                    "title": "20 идей как увеличить доход уже сейчас и две из них воплощаем. Доходы",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 17,
+                    "title": "Бизнес с нуля без вложений",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 18,
+                    "title": "Финансовый план на год. Насыщение ресурсами",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 19,
+                    "title": "Автомобиль бизнес класса, планирование. Как создать",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 20,
+                    "title": "Инвестиции, первый миллион, неснижаемого остаток на счету. финансовый план на 3 месяца",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 21,
+                    "title": "Как быть счастливой. Первый шаг к недвижимости",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 22,
+                    "title": "Карта желаний. Авторская методика",
+                    "description": "",
+                    "duration": 0,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
