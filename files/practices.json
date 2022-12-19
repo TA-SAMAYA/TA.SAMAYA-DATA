@@ -18,6 +18,7 @@
             "content": [
                 {
                     "id": 1,
+                    "dayNumber": 1,
                     "title": "Точка отсчета, где я нахожусь. Очищение пространства",
                     "description": "",
                     "duration": 0,
@@ -35,7 +36,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 2,
+                    "id": 1.1,
+                    "dayNumber": 1,
                     "title": "Определяем свой уровень. Убираем формулу бедности. Формула контроля расходов.",
                     "description": "",
                     "duration": 0,
@@ -53,7 +55,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 3,
+                    "id": 2,
+                    "dayNumber": 2,
                     "title": "Выявление/Проработка основных денежных убеждений",
                     "description": "",
                     "duration": 0,
@@ -71,7 +74,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 4,
+                    "id": 3,
+                    "dayNumber": 3,
                     "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
                     "description": "",
                     "duration": 0,
@@ -89,7 +93,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 5,
+                    "id": 3.1,
+                    "dayNumber": 3,
                     "title": "Мотивация. Где брать энергию. Как хотеть правильно",
                     "description": "",
                     "duration": 0,
@@ -107,61 +112,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 4,
-                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
-                    "description": "",
-                    "duration": 0,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 5,
-                    "title": "Мотивация. Где брать энергию. Как хотеть правильно",
-                    "description": "",
-                    "duration": 0,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 4,
-                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
-                    "description": "",
-                    "duration": 0,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 6,
+                    "id": 3.2,
+                    "dayNumber": 3,
                     "title": "Что делать чтобы желания осуществлялись. Как быть в хорошем настроении всегда",
                     "description": "",
                     "duration": 0,
@@ -179,7 +131,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 7,
+                    "id": 4,
+                    "dayNumber": 4,
                     "title": "Ставим финансовую цель и делаем первые шаги. Состояние победителя - практика.",
                     "description": "",
                     "duration": 0,
@@ -197,7 +150,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 8,
+                    "id": 5,
+                    "dayNumber": 5,
                     "title": "Много энергии  - много денег, ищем сливы и убираем их",
                     "description": "",
                     "duration": 0,
@@ -215,7 +169,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 9,
+                    "id": 5.1,
+                    "dayNumber": 5,
                     "title": "Формирование поддерживающих убеждений.Опора.Программируем мозг.Прописываем убеждения",
                     "description": "",
                     "duration": 0,
@@ -233,7 +188,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 10,
+                    "id": 6,
+                    "dayNumber": 6,
                     "title": "Определение ступора/тормоза от своей цели. Определение личного финансового страха",
                     "description": "",
                     "duration": 0,
@@ -251,8 +207,9 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 11,
-                    "title": "Избавляемся от негативных убеждениий «я никто» +2 ваших индивидуальных",
+                    "id": 6.1,
+                    "dayNumber": 6,
+                    "title": "Избавляемся от негативных убеждениий «я никто» +2 ваших индивидуальных ",
                     "description": "",
                     "duration": 0,
                     "banner": null,
@@ -269,79 +226,65 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 12,
+                    "id": 7,
+                    "dayNumber": 7,
                     "title": "Проработка папы/мамы. Проработка обид на себя и мир",
                     "description": "",
                     "duration": 0,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "audio"
                     },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
                 },
                 {
-                    "id": 13,
-                    "title": "Проработка папы/мамы. Проработка обид на себя и мир",
-                    "description": "",
-                    "duration": 0,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 14,
+                    "id": 7.1,
+                    "dayNumber": 7,
                     "title": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
                     "description": "",
                     "duration": 0,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "audio"
                     },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
                 },
                 {
-                    "id": 15,
+                    "id": 8,
+                    "dayNumber": 8,
                     "title": "Выявление/Проработка денежных убеждений. Практика: растяжка мозга до 1млн $",
                     "description": "",
                     "duration": 0,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "audio"
                     },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
                 },
                 {
-                    "id": 16,
+                    "id": 8.1,
+                    "dayNumber": 8,
                     "title": "Контроль расходов, первые шаги к достижению финансовой безопасности",
                     "description": "",
                     "duration": 0,
@@ -359,7 +302,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 16,
+                    "id": 9,
+                    "dayNumber": 9,
                     "title": "20 идей как увеличить доход уже сейчас и две из них воплощаем. Доходы",
                     "description": "",
                     "duration": 0,
@@ -377,7 +321,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 17,
+                    "id": 10,
+                    "dayNumber": 10,
                     "title": "Бизнес с нуля без вложений",
                     "description": "",
                     "duration": 0,
@@ -395,7 +340,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 18,
+                    "id": 11,
+                    "dayNumber": 11,
                     "title": "Финансовый план на год. Насыщение ресурсами",
                     "description": "",
                     "duration": 0,
@@ -413,7 +359,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 19,
+                    "id": 11.1,
+                    "dayNumber": 11,
                     "title": "Автомобиль бизнес класса, планирование. Как создать",
                     "description": "",
                     "duration": 0,
@@ -431,7 +378,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 20,
+                    "id": 12,
+                    "dayNumber": 12,
                     "title": "Инвестиции, первый миллион, неснижаемого остаток на счету. финансовый план на 3 месяца",
                     "description": "",
                     "duration": 0,
@@ -449,7 +397,8 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 21,
+                    "id": 13,
+                    "dayNumber": 13,
                     "title": "Как быть счастливой. Первый шаг к недвижимости",
                     "description": "",
                     "duration": 0,
@@ -467,7 +416,7 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 22,
+                    "id": 14,
                     "title": "Карта желаний. Авторская методика",
                     "description": "",
                     "duration": 0,
