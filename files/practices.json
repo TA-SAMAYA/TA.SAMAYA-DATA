@@ -12,6 +12,7 @@
             "content": [
                 {
                     "id": 1,
+                    "dayNumber": "1",
                     "title": "Практика: Папа/Мама",
                     "description": "",
                     "duration": 40,
@@ -30,6 +31,7 @@
                 },
                 {
                     "id": 2,
+                    "dayNumber": "2",
                     "title": "Определение личного ступора к успеху",
                     "description": "",
                     "duration": 40,
