@@ -1,17 +1,17 @@
 {
     "data": [
         {
-            "id": 1,
+            "id": 0,
             "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/banner_2.png",
             "link": "https://t.me/+8Ta-d3gzoYRjNjdi"
         },
         {
-            "id": 2,
+            "id": 1,
             "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/banner_3.jpg",
             "link": "https://gcode.life/"
         },
         {
-            "id": 0,
+            "id": 2,
             "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/banner_1.png",
             "link": "https://www.instagram.com/tutmarinaaa/"
         }
