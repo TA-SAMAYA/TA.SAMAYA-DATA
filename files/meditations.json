@@ -71,8 +71,8 @@
             "isAvailable": true
         },
         {
-            "id": 3,
-            "title": "Практика - Состояние победителя",
+            "id": 4,
+            "title": "Медитации соединения с энергией денег и роскоши",
             "description": "",
             "duration": 18,
             "banner": "",
@@ -95,8 +95,8 @@
             "isAvailable": true
         },
         {
-            "id": 4,
-            "title": "Медитации соединения с энергией денег и роскоши",
+            "id": 3,
+            "title": "Практика - Состояние победителя",
             "description": "",
             "duration": 18,
             "banner": "",
@@ -130,6 +130,30 @@
                 "5391",
                 "3006",
                 "0010"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 10,
+            "title": "Медитация спокойствия",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
             ],
             "durationMeasuring": "minutes",
             "lessonTitle": "",
@@ -241,54 +265,6 @@
             "isAvailable": true
         },
         {
-            "id": 10,
-            "title": "Медитация спокойствия",
-            "description": "",
-            "duration": 0,
-            "banner": "",
-            "accessCode": [
-                "0033",
-                "0194",
-                "4954",
-                "4663",
-                "8852"
-            ],
-            "durationMeasuring": "minutes",
-            "lessonTitle": "",
-            "lessonContent": [],
-            "media": {
-                "uri": "",
-                "type": "audio"
-            },
-            "availableDays": 90,
-            "startDate": null,
-            "isAvailable": true
-        },
-        {
-            "id": 11,
-            "title": "Медитация наполнение любовью",
-            "description": "",
-            "duration": 0,
-            "banner": "",
-            "accessCode": [
-                "0033",
-                "0194",
-                "4954",
-                "4663",
-                "8852"
-            ],
-            "durationMeasuring": "minutes",
-            "lessonTitle": "",
-            "lessonContent": [],
-            "media": {
-                "uri": "",
-                "type": "audio"
-            },
-            "availableDays": 90,
-            "startDate": null,
-            "isAvailable": true
-        },
-        {
             "id": 12,
             "title": "Практика - Выявление/Проработка денежных убеждений",
             "description": "",
@@ -363,6 +339,30 @@
         {
             "id": 15,
             "title": "Практика -  Избавляемся убеждениия «я никто» +2 ваших индивидуальных",
+            "description": "",
+            "duration": 0,
+            "banner": "",
+            "accessCode": [
+                "0033",
+                "0194",
+                "4954",
+                "4663",
+                "8852"
+            ],
+            "durationMeasuring": "minutes",
+            "lessonTitle": "",
+            "lessonContent": [],
+            "media": {
+                "uri": "",
+                "type": "audio"
+            },
+            "availableDays": 90,
+            "startDate": null,
+            "isAvailable": true
+        },
+        {
+            "id": 11,
+            "title": "Медитация наполнение любовью",
             "description": "",
             "duration": 0,
             "banner": "",
