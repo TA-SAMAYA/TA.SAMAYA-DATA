@@ -1,65 +1,104 @@
 {
-    "id": 297,
-    "title": "ЛЕГКИЕ ДЕНЬГИ",
-    "description": "После просмотра этого интенсива ты получишь пошаговый план,как стать миллионером за три года и поймешь как просто на общении с иностранцами делать деньги",
-    "duration": 2,
-    "accessCode": [
+    "data": [
+        {
+            "id": 297,
+            "title": "ЛЕГКИЕ ДЕНЬГИ",
+            "description": "Как стать миллионером за три года. Пошаговый план",
+            "duration": 2,
+            "accessCode": [
                 "2030",
                 "2122",
                 "3134",
                 "5568",
-                "9081" 
-    "durationMeasuring": "days",
-    "availableDays": 10,
-     "startDate": null,
-    "content": [
-        {
-            "id": 297.1,
-            "title": "Day one",
-            "description": "Установки и страхи, мышление, мотивация, взрослая позиция",
-            "duration": 90,
-            "banner": "https://nebula.org/blog/wp-content/uploads/2020/08/woman-doing-yoga-at-sunset-1024x683.jpg",
-            "accessCode": null,
-            "durationMeasuring": "minutes",
-            "lessonTitle": "string",
-            "lessonContent": [
-                "Take a seat. Find place to sit that feels calm and quiet to you.",
-                "Set a time limit. ...",
-                "Notice your body. ...",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
             ],
-          "media": {
-                "uri": "",
-                "type": "video"
-            },
-            "availableDays": 90,
+            "durationMeasuring": "days",
+            "availableDays": 10,
             "startDate": null,
-            "isAvailable": true
+            "content": [
+                {
+                    "id": 1,
+                    "dayNumber": "1",
+                    "title": "О чем тут вообще",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 2,
+                    "dayNumber": "1",
+                    "title": "Мышление",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 3,
+                    "dayNumber": "1",
+                    "title": "Как, где и почему",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 4,
+                    "dayNumber": "1",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
         },
-        {
-            "id": 297.2,
-            "title": "Day one",
-            "description": "Как стать миллионером за три года. Пошаговый план",
-            "duration": 15,
-            "banner": "https://nebula.org/blog/wp-content/uploads/2020/08/woman-doing-yoga-at-sunset-1024x683.jpg",
-            "accessCode": null,
-            "durationMeasuring": "minutes",
-            "lessonTitle": "string",
-            "lessonContent": [
-                "Take a seat. Find place to sit that feels calm and quiet to you.",
-                "Set a time limit. ...",
-                "Notice your body. ...",
-            ],
-            "media": {
-                "uri": "https://nebula.org/blog/wp-content/uploads/2020/08/woman-doing-yoga-at-sunset-1024x683.jpg",
-             "type": "audio"
-            },
-            "availableDays": 90,
-            "startDate": null,
-            "isAvailable": true
-      }
-    ]
-{
-    "data": [
         {
             "id": 1,
             "title": "КОД УСПЕХА",
@@ -70,7 +109,7 @@
                 "2122",
                 "3134",
                 "5568",
-                "9081" 
+                "9081"
             ],
             "durationMeasuring": "days",
             "availableDays": 90,
