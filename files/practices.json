@@ -11,7 +11,7 @@
                 "9081" 
     "durationMeasuring": 'days',
     "availableDays": 10,
-    "startDate": "2023-03-06",
+     "startDate": null,
     "content": [
         {
             "id": 2,
