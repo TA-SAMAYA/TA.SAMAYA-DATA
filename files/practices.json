@@ -100,6 +100,105 @@
             ]
         },
         {
+            "id": 297,
+            "title": "ЛЕГКИЕ ДЕНЬГИ",
+            "description": "Как на просто общении с иностранцами делать деньги и стать долларовым миллионером за три года. Пошаговый план",
+            "duration": 2,
+            "accessCode": [
+                "2030",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 10,
+            "startDate": null,
+            "content": [
+                {
+                    "id": 1,
+                    "dayNumber": "1",
+                    "title": "О чем тут вообще: откуда деньги,как я на этом зарабатываю",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 2,
+                    "dayNumber": "1",
+                    "title": "Установки,страхи.Мышление,фокус и почему у каждой получится",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 3,
+                    "dayNumber": "1",
+                    "title": "Закрытые сайты,как общаться,как заработать 1000$ уже через неделю",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 4,
+                    "dayNumber": "1",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
+        },
+        {
             "id": 1,
             "title": "КОД УСПЕХА",
             "description": "Курс, который позволит тебе, за год создать базу для спокойной жизни: машина бизнес класса, квартира и счет 1 000 000💵 неснижаемого остатка",
