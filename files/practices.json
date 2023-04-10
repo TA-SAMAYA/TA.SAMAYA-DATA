@@ -42,7 +42,7 @@
                 },
                 {
                     "id": 2,
-                    "dayNumber": "1",
+                    "dayNumber": "2",
                     "title": "Установки,страхи.Мышление,фокус и почему у каждой получится",
                     "description": "",
                     "duration": 10,
@@ -85,7 +85,17 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "2301",
+                "9891",
+                "0125"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
