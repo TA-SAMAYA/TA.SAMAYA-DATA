@@ -90,7 +90,7 @@
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/8888.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/88889.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -100,6 +100,82 @@
                 {
                     "id": 5,
                     "dayNumber": "1",
+                    "title": "Правильное мышление и как мне начали с 600$ сразу давать 6000$",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/0000.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 6,
+                    "dayNumber": "1",
+                    "title": "Почему он ждет именно вас.Во что влюбляются иностранцы",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1111.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 7,
+                    "dayNumber": "1",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 8,
+                    "dayNumber": "1",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+                {
+                    "id": 9,
+                    "dayNumber": "2",
                     "title": "Приятный бонус",
                     "description": "",
                     "duration": 10,
