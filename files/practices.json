@@ -280,7 +280,18 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":[
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -383,7 +394,7 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 16,
+                    "id": 17,
                     "dayNumber": "3",
                     "title": "Разбор переписки от знакомства до содержания",
                     "description": "",
@@ -413,7 +424,7 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 17,
+                    "id": 18,
                     "dayNumber": "3",
                     "title": "Как стать долларовым миллионером за три года?!",
                     "description": "",
@@ -443,7 +454,7 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 18,
+                    "id": 19,
                     "dayNumber": "3",
                     "title": "Приятный бонус",
                     "description": "",
