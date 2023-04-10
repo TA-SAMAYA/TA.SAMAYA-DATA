@@ -52,7 +52,6 @@
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": {
                 "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
                 "type": "video"
             },
@@ -72,7 +71,6 @@
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": {
                 "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/7777.mp4",
                 "type": "video"
             },
@@ -83,6 +81,25 @@
                 {
                     "id": 4,
                     "dayNumber": "1",
+                    "title": "Как просить,на что,особенности мужчин.Как сделать так чтобы он точно дал денег?!",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/8888.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 5,
+                    "dayNumber": "1",
                     "title": "Приятный бонус",
                     "description": "",
                     "duration": 10,
@@ -92,13 +109,14 @@
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
+                        "uri": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                }
+                },
             ]
         },
         {
