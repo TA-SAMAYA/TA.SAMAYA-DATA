@@ -33,9 +33,9 @@
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
+                "uri": "https://github.com/TA-SAMAYA/TA.SAMAYA-DATA/blob/main/media/video/1-177.mp4",
+                "type": "video"
+            },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -61,7 +61,7 @@
                 },
                 {
                     "id": 3,
-                    "dayNumber": "1",
+                    "dayNumber": "2",
                     "title": "Закрытые сайты,как общаться,как заработать 1000$ уже через неделю",
                     "description": "",
                     "duration": 10,
@@ -80,7 +80,7 @@
                 },
                 {
                     "id": 4,
-                    "dayNumber": "1",
+                    "dayNumber": "2",
                     "title": "Приятный бонус",
                     "description": "",
                     "duration": 10,
