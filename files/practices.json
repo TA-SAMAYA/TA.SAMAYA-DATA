@@ -163,6 +163,314 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
+                },
+                {
+                    "id": 9,
+                    "dayNumber": "2",
+                "title": "Где брать мужчин?!И что с ними делать?!",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 10,
+                    "dayNumber": "2",
+                    "title": "Практика - переписываем установки и разрешаем принимать себе большими суммами",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 11,
+                    "dayNumber": "2",
+                    "title": "Как я делаю эту практику и как многое она дала мне в жизни",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 12,
+                    "dayNumber": "2",
+                    "title": "Тиндер - это помойка! Но как найти бриллиант",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 13,
+                    "dayNumber": "2",
+                    "title": "Переводим на вотсап и что делаем?!Пошаговый план",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 14,
+                    "dayNumber": "3",
+                    "title": "Платные сайты",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 15,
+                    "dayNumber": "3",
+                    "title": "Сайты брачных агенств",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 16,
+                    "dayNumber": "3",
+                    "title": "Как правильно просить.Скрипты",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 16,
+                    "dayNumber": "3",
+                    "title": "Разбор переписки от знакомства до содержания",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 17,
+                    "dayNumber": "3",
+                    "title": "Как стать долларовым миллионером за три года?!",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 18,
+                    "dayNumber": "3",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "20340",
+                "2122",
+                "3134",
+                "5568",
+                "9081",
+                "1046",
+                "6661",
+                "2301",
+                "9891",
+                "0125"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
                 }
             ]
         },
