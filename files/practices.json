@@ -167,27 +167,16 @@
                 {
                     "id": 9,
                     "dayNumber": "2",
-                "title": "Где брать мужчин?!И что с ними делать?!",
+                "title": "Практика - переписываем установки и разрешаем принимать себе большими суммами!",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1%20практика.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -197,27 +186,16 @@
                 {
                     "id": 10,
                     "dayNumber": "2",
-                    "title": "Практика - переписываем установки и разрешаем принимать себе большими суммами",
+                    "title": "Первая часть практики",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/практика%202.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -231,23 +209,31 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/практика%203.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },,
+                {
+                    "id": 679,
+                    "dayNumber": "2",
+                "title": "Вторая часть практики - переписываем установки",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/пратика%204.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
