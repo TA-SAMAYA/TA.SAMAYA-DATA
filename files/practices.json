@@ -220,7 +220,7 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                },,
+                },
                 {
                     "id": 679,
                     "dayNumber": "2",
@@ -277,7 +277,7 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                },,
+                },
                 {
                     "id": 15572,
                     "dayNumber": "2",
@@ -296,7 +296,7 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                },,
+                },
                 {
                     "id": 15532,
                     "dayNumber": "2",
