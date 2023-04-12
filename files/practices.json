@@ -247,23 +247,12 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/57575.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -271,29 +260,56 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 13,
+                    "id": 1552,
                     "dayNumber": "2",
-                    "title": "Переводим на вотсап и что делаем?!Пошаговый план",
+                    "title": "Тиндер.Чек-лист действий",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode":[
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666665.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },,
+                {
+                    "id": 15572,
+                    "dayNumber": "2",
+                    "title": "Как влюбить его в себя и что сделать чтоб он дал денег",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/3333444.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },,
+                {
+                    "id": 15532,
+                    "dayNumber": "2",
+                    "title": "Когда, как и на что просить",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/6667788.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
