@@ -323,23 +323,12 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/платные.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -409,27 +398,35 @@
                 {
                     "id": 17,
                     "dayNumber": "3",
-                    "title": "Разбор переписки от знакомства до содержания",
+                    "title": "Разбор переписки от знакомства до содержания, часть 1",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/11115456.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 15657,
+                    "dayNumber": "3",
+                    "title": "Разбор переписки от знакомства до содержания, часть 2",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/2223363.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
