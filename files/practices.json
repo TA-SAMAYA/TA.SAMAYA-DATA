@@ -395,27 +395,35 @@
                 {
                     "id": 16,
                     "dayNumber": "3",
-                    "title": "Как правильно просить.Скрипты",
+                    "title": "Как правильно просить.Давать теплоту. Скрипты",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/566565663.mp4",
+                "type": "video"
+            },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 16.44,
+                    "dayNumber": "3",
+                    "title": "Чтоби результат у вас бил в любом случае - нужно!",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/999988888876.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
@@ -497,23 +505,12 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
                 "type": "video"
             },
                     "availableDays": 90,
