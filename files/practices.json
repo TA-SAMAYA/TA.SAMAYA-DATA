@@ -171,7 +171,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -190,7 +193,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -209,7 +215,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -228,7 +237,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":[
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -247,7 +259,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -266,7 +281,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -285,7 +303,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -304,7 +325,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -323,7 +347,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":[
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -342,7 +369,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -361,7 +391,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -380,7 +413,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -399,7 +435,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -418,7 +457,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -437,7 +479,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -456,7 +501,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -477,15 +525,7 @@
                     "banner": null,
                     "accessCode": [
                 "20340",
-                "2122",
-                "3134",
-                "5568",
-                "9081",
-                "1046",
-                "6661",
-                "2301",
-                "9891",
-                "0125"
+                "2122"
             ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -505,7 +545,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                "2244",
+                "2112"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -525,8 +568,8 @@
             "description": "Курс, который позволит тебе, за год создать базу для спокойной жизни: машина бизнес класса, квартира и счет 1 000 000💵 неснижаемого остатка",
             "duration": 14,
             "accessCode": [
-                "2030",
-                "2122",
+                "20530",
+                "21422",
                 "3134",
                 "5568",
                 "9081"
