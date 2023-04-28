@@ -19,14 +19,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/5555.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/5555.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -38,14 +40,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -57,14 +61,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/88889.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/88889.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -76,14 +82,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/8888.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/8888.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -95,14 +103,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/0000.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/0000.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -114,14 +124,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1111.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1111.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -133,14 +145,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/33331.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/33331.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -152,14 +166,16 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/44441.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/44441.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -167,21 +183,22 @@
                 {
                     "id": 9,
                     "dayNumber": "2",
-                "title": "Практика - переписываем установки и разрешаем принимать себе большими суммами!",
+                    "title": "Практика - переписываем установки и разрешаем принимать себе большими суммами!",
                     "description": "",
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/113344.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/113344.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -194,16 +211,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1111444445555.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1111444445555.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -216,16 +234,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/22222333.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/22222333.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -233,21 +252,22 @@
                 {
                     "id": 679,
                     "dayNumber": "2",
-                "title": "Вторая часть практики - переписываем установки",
+                    "title": "Вторая часть практики - переписываем установки",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode":[
-                "2244",
-                "2112"
-            ],
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/33335556.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/33335556.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -260,16 +280,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/57575.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/57575.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -282,16 +303,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666665.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666665.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -304,16 +326,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/3333444.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/3333444.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -326,16 +349,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/6667788.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/6667788.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -347,17 +371,18 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode":[
-                "2244",
-                "2112"
-            ],
+                    "accessCode": [
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/555555777.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/555555777.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -370,16 +395,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666777865.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666777865.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -392,16 +418,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/5837485.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/5837485.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -414,16 +441,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/6666677888.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/6666677888.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -436,16 +464,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/566565663.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/566565663.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -458,16 +487,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/999988888876.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/999988888876.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -480,16 +510,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/11115456.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/11115456.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -502,16 +533,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/3345353.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/3345353.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -524,16 +556,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "20340",
-                "2122"
-            ],
+                        "test3",
+                        "20340",
+                        "2122"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/666.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -546,16 +579,17 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                "2244",
-                "2112"
-            ],
+                        "test3",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
-                "type": "video"
-            },
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
+                        "type": "video"
+                    },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
