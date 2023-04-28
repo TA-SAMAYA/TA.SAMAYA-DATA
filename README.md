@@ -223,3 +223,53 @@
 2. Нажмите "Push origin"
 
 ![Push](./readmeImages/gitHubPush.jpg)
+
+
+## 4. Пароль для каждого дня 
+
+       Что бы добавить пароль на 2 и 3 день :
+
+1. Находим нужный день ,
+                  "id": 0,
+                "title": "День 2",
+                "description": "I had spent...",
+                "duration": 10,
+                "banner": "https://nebula.org/blog/wp-content/uploads/2020/08/woman-doing-yoga-at-sunset-1024x683.jpg",
+                "accessCode": null,
+                "durationMeasuring": "minutes",
+                "lessonTitle": "string",
+                "lessonContent": [
+                    "Take a seat. Find place to sit that feels calm and quiet to you.",
+                    "Set a time limit. ...",
+                    "Notice your body. ...",
+                ],
+2. Нам нужно поле "accessCode" 
+3. Подставляем пароль в формате "accessCode":["Пароль"], (обязательно "" - двойные кавычки)
+
+Так нужно делать с каждым днем отдельно , пароль для всего курса применяется к доступу в курс и к Первому дню .
+
+## 5. Как добавлять видео 
+
+1. Создать или взять существующий YouTube канал .
+
+2. Заходим в свой профиль .
+![PROFILE](./readmeImages/gitHubProfile.jpg)
+3. Переходим в YoUTube студия 
+![STUDIO](./readmeImages/gitHubstudio.jpg)
+4. Загружаем видео.
+![DOWNLOAD](./readmeImages/gitHubDownload.jpg)
+5. Название, описание нам не важно . Выбираем Видимость(Не для всех)
+![VISIBILITY](./readmeImages/gitHubVisibility.jpg)
+6. После создания , заходим в компонент и копируем ссылку на видео .
+![LINK](./readmeImages/gitHubLink.jpg)
+![COPYLINK](./readmeImages/gitHubCopyLink.jpg)
+![LINKS](./readmeImages/gitHubLinks.jpg)
+7.   !!!Внимание!!! Eсли видео до 1 минуты , YouTube расценивает их как shorts. Ccылка будет выглядеть https://youtube.com/shorts/vDtLWDX05bU?feature=share , с такой ссылки нужно убрать /shorts/ .
+Приложение не принимает такую ссылку .
+Исходный вид : https://youtube.com/vDtLWDX05bU?feature=share.
+
+8. Вставляем ccылку в поле "uri": "" (без пробелов по краям)
+![URI](./readmeImages/gitHubUri.jpg)
+
+9. Знаечние "type": "" меняем в соответствии с контентом . Видео = video . Аудио = audio
+

@@ -646,7 +646,7 @@
                     "duration": 15,
                     "banner": null,
                     "accessCode": [
-                        "test1"
+                        "test2"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -666,7 +666,9 @@
                     "description": "",
                     "duration": 12,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test3"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
