@@ -255,11 +255,11 @@
 2. Заходим в свой профиль .
 ![PROFILE](./readmeImages/gitHubProfile.jpg)
 3. Переходим в YoUTube студия 
-![STUDIO](./readmeImages/gitHubstudio.jpg)
+![STUDIO](./readmeImages/gitHubStudio1.png)
 4. Загружаем видео.
-![DOWNLOAD](./readmeImages/gitHubDownload.jpg)
+![DOWNLOAD](./readmeImages/gitHubDownload.png)
 5. Название, описание нам не важно . Выбираем Видимость(Не для всех)
-![VISIBILITY](./readmeImages/gitHubVisibility.jpg)
+![VISIBILITY](./readmeImages/gitHubVisibility.png)
 6. После создания , заходим в компонент и копируем ссылку на видео .
 ![LINK](./readmeImages/gitHubLink.jpg)
 ![COPYLINK](./readmeImages/gitHubCopyLink.jpg)
