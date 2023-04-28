@@ -19,9 +19,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode":null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -40,9 +38,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -61,9 +57,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -82,9 +76,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -103,9 +95,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -124,9 +114,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -145,9 +133,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -166,9 +152,7 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -619,12 +603,14 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://youtube.com/shorts/vDtLWDX05bU?feature=share",
+                        "uri": "https://youtube.com/vDtLWDX05bU?feature=share",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -638,12 +624,14 @@
                     "description": "",
                     "duration": 20,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://youtube.com/shorts/4FyhAvvwcPA?feature=share",
+                        "uri": "https://youtube.com/4FyhAvvwcPA?feature=share",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -657,12 +645,14 @@
                     "description": "",
                     "duration": 15,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test1"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "3. https://youtube.com/shorts/MJW7ZUS_tkU?feature=share",
+                        "uri": "https://youtube.com/MJW7ZUS_tkU?feature=share",
                         "type": "video"
                     },
                     "availableDays": 90,
