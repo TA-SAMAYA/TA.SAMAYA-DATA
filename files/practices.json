@@ -76,7 +76,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -95,7 +99,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -114,7 +122,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -133,7 +145,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -152,7 +168,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "test2",
+                        "2244",
+                        "2112"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
