@@ -77,9 +77,9 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "1332",
-                        "2244",
-                        "2112"
+                        "13962",
+                        "224554",
+                        "211442"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -100,9 +100,9 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "1332",
-                        "2244",
-                        "2112"
+                        "13962",
+                        "224554",
+                        "211442"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -122,10 +122,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "1332",
-                        "2244",
-                        "2112"
+                    "accessCode":  [
+                        "13962",
+                        "224554",
+                        "211442"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -146,9 +146,9 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "1332",
-                        "2244",
-                        "2112"
+                        "13962",
+                        "224554",
+                        "211442"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -168,10 +168,10 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "1332",
-                        "2244",
-                        "2112"
+                    "accessCode":  [
+                        "13962",
+                        "224554",
+                        "211442"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -192,7 +192,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -213,8 +213,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "test2",
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -235,7 +234,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                       "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -256,7 +255,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -276,8 +275,8 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": [
-                        "8999"
+                    "accessCode":[
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -298,7 +297,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -319,7 +318,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -340,7 +339,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -361,7 +360,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -382,7 +381,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -403,7 +402,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -424,7 +423,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -445,7 +444,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -466,7 +465,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -487,7 +486,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                         "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -508,7 +507,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
@@ -552,7 +551,7 @@
                     "duration": 10,
                     "banner": null,
                     "accessCode": [
-                        "8999"
+                        "83499"
                     ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
