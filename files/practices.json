@@ -579,27 +579,6 @@
             "availableDays": 90,
             "startDate": null,
             "content": [
-           {
-                    "id": 88551,
-                    "dayNumber": "1",
-                    "title": "Кто Я? О чем тут? Что это? Где я?",
-                    "description": "",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/TRIAL____________6E55DDD5-5BD0-4AC9-B9A7-C8D2995191D0.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
                 {
                     "id": 881,
                     "dayNumber": "1",
