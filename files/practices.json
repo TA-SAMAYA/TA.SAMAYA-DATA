@@ -696,6 +696,27 @@
                 {
                     "id": 88451,
                     "dayNumber": "1",
+                    "title": "Подготовка. Практика расширения денежной емкости",
+                    "description": "Вводная часть - Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                        "54577"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/TRIAL____________6E55DDD5-5BD0-4AC9-B9A7-C8D2995191D0.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 8845551,
+                    "dayNumber": "1",
                     "title": "Практика расширения денежной емкости",
                     "description": "Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
                     "duration": 10,
