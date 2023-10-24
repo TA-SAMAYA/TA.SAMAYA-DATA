@@ -568,12 +568,12 @@
         },
         {
             "id": 1999,
-            "title": "ЛЮБОВЬ НА БОГАТОМ",
-            "description": "Как выйти на 1 000 000 за три месяца",
+            "title": "ДЕНЬГИ ПО ЛЮБВИ",
+            "description": "Как зарабатывать миллионы на том что ты женщина",
             "duration": 14,
             "accessCode": [
-                "2066530",
-                "2166422"
+                "20330",
+                "21332"
             ],
             "durationMeasuring": "days",
             "availableDays": 90,
@@ -582,16 +582,16 @@
                {
                     "id": 881,
                     "dayNumber": "1",
-                    "title": "Кто я? О чем тут?",
-                    "description": "мой инстаграм @tutmarinaa",
+                    "title": "Первая неделя",
+                    "description": "переводим на вотсап",
                     "duration": 10,
                     "banner": null,
                       "accessCode":null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "мой инстаграм @tutmarinaa",
+                    "lessonTitle": "Ваша задача на эту неделю перевести 10 мужчин на вотсап по гайду из урока и сделать практику "дух мой"",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/546356545.mp4",
+                        "uri": "https://youtu.be/e-hOVztKqYU?feature=share",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -601,13 +601,15 @@
                 {
                     "id": 88441,
                     "dayNumber": "1",
-                    "title": "Жизнь игра.Личность.Легкая жизнь",
-                    "description": "Сейчас я поболтаю с вами и мы сонастроимся для проведения практик. Это видео не несет смысловой нагрузки, просто я заряжу вас свои потоком",
+                    "title": "Вторая неделя",
+                    "description": "Мини просьба",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "834699"
+                    ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Сейчас я поболтаю с вами и мы сонастроимся для проведения практик. Это видео не несет смысловой нагрузки, просто я заряжу вас свои потоком",
+                    "lessonTitle": "На этой неделе фильтруем мужчин на платежеспособность и делаем мини просьбу из урока",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/2675722.mp4",
@@ -620,13 +622,15 @@
                 {
                     "id": 884541,
                     "dayNumber": "1",
-                    "title": "Все про деньги.Расширение",
-                    "description": "Старт курса 08 июля и мест всего 20! Вы можете купить первую неделю \"очищение\" и просто понаблюдать как ваша жизнь изменится, как вам станет легко жить! Практика избавление от страха и магическая практика очищения от связей 3х часовая это мощнее чем все в этом мире",
+                    "title": "Третья Неделя",
+                    "description": "Просим деньги",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "834699"
+                    ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Старт курса 08 июля и мест всего 20! Вы можете купить первую неделю \"очищение\" и просто понаблюдать как ваша жизнь изменится, как вам станет легко жить! Практика избавление от страха и магическая практика очищения от связей 3х часовая это мощнее чем все в этом мире",
+                    "lessonTitle": "Скрипты и как просить - все в уроке",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/33376575.mp4",
@@ -639,13 +643,15 @@
                 {
                     "id": 8843981,
                     "dayNumber": "1",
-                    "title": "Какие практики тут и как их делать",
-                    "description": "Практики мотать на конец нельзя! Чтобы получить практику - прощение обид - отметь меня в стори @tutmarinaa, с любым инсайтом из этого курса и пиши в директ \"хочу практику\" ",
+                    "title": "Четвертая неделя",
+                    "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "834699"
+                    ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Практики мотать на конец нельзя! Чтобы получить практику - прощение обид - отметь меня в стори tutmarinaa, с любым инсайтом из этого курса и пиши в директ \"хочу практику\" ",
+                    "lessonTitle": "Просите по моей схеме и у вас будет так же как и у меня",
                     "lessonContent": "",
                     "media": {
                         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/98775432.mp4",
@@ -656,531 +662,10 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 8851,
-                    "dayNumber": "1",
-                    "title": "Теория.Определяем где вы",
-                    "description": "",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/464554.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 83381,
-                    "dayNumber": "1",
-                    "title": "Считаем ваши деньги! Важно!",
-                    "description": "",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/4454456555.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 88451,
-                    "dayNumber": "1",
-                    "title": "Подготовка. Практика расширения денежной емкости",
-                    "description": "Вводная часть - Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": [
-                        "54577"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Вводная часть - Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/2221122222.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 8845551,
-                    "dayNumber": "1",
-                    "title": "Практика расширения денежной емкости",
-                    "description": "Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": [
-                        "54577"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Делать только тогда,когда есть 5 минут свободного времени и листочек и ручка",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/1122222335.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 881,
-                    "dayNumber": "1",
-                    "title": "Точка отсчета, где я нахожусь. Очищение пространства",
-                    "description": "",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/TRIAL____________6E55DDD5-5BD0-4AC9-B9A7-C8D2995191D0.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 1.1,
-                    "dayNumber": "1",
-                    "title": "Определяем свой уровень. Убираем формулу бедности. Формула контроля расходов.",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode": [
-                        "test1"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://youtube.com/4FyhAvvwcPA?feature=share",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 27776,
-                    "dayNumber": "2",
-                    "title": "Выявление/Проработка основных денежных убеждений",
-                    "description": "",
-                    "duration": 15,
-                    "banner": null,
-                    "accessCode": [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://youtube.com/MJW7ZUS_tkU?feature=share",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 399,
-                    "dayNumber": "3",
-                    "title": "Прописываем установку : деньги есть всегда. Начинаем создавать подушку безопасности ",
-                    "description": "",
-                    "duration": 12,
-                    "banner": null,
-                    "accessCode": [
-                        "test3"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 3.1,
-                    "dayNumber": "3",
-                    "title": "Мотивация. Где брать энергию. Как хотеть правильно",
-                    "description": "",
-                    "duration": 16,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 3.2,
-                    "dayNumber": "3",
-                    "title": "Что делать чтобы желания осуществлялись. Как быть в хорошем настроении всегда",
-                    "description": "",
-                    "duration": 14,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 94,
-                    "dayNumber": "4",
-                    "title": "Ставим финансовую цель и делаем первые шаги. Состояние победителя - практика.",
-                    "description": "",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 95,
-                    "dayNumber": "5",
-                    "title": "Много энергии  - много денег, ищем сливы и убираем их",
-                    "description": "",
-                    "duration": 40,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 5.1,
-                    "dayNumber": "5",
-                    "title": "Формирование поддерживающих убеждений.Опора.Программируем мозг.Прописываем убеждения",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 69,
-                    "dayNumber": "6",
-                    "title": "Определение ступора/тормоза от своей цели. Определение личного финансового страха",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 6.1,
-                    "dayNumber": "6",
-                    "title": "Избавляемся от негативных убеждениий «я никто» +2 ваших индивидуальных ",
-                    "description": "",
-                    "duration": 25,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 97,
-                    "dayNumber": "7",
-                    "title": "Проработка папы/мамы. Проработка обид на себя и мир",
-                    "description": "",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 7.1,
-                    "dayNumber": "7",
-                    "title": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "description": "",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 899,
-                    "dayNumber": "8",
-                    "title": "Выявление/Проработка денежных убеждений. Практика: растяжка мозга до 1млн $",
-                    "description": "",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 8.1,
-                    "dayNumber": "8",
-                    "title": "Контроль расходов, первые шаги к достижению финансовой безопасности",
-                    "description": "",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 999,
-                    "dayNumber": "9",
-                    "title": "20 идей как увеличить доход уже сейчас и две из них воплощаем. Доходы",
-                    "description": "",
-                    "duration": 40,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 109,
-                    "dayNumber": "10",
-                    "title": "Бизнес с нуля без вложений",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 191,
-                    "dayNumber": "11",
-                    "title": "Финансовый план на год. Насыщение ресурсами",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 11.1,
-                    "dayNumber": "11",
-                    "title": "Автомобиль бизнес класса, планирование. Как создать",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 192,
-                    "dayNumber": "12",
-                    "title": "Инвестиции, первый миллион, неснижаемого остаток на счету. финансовый план на 3 месяца",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 193,
-                    "dayNumber": "13",
-                    "title": "Как быть счастливой. Первый шаг к недвижимости",
-                    "description": "",
-                    "duration": 20,
-                    "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Трансформация страха, как подружиться с ним и сделать его своим мощным ресурсом",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
                     "id": 914,
                     "dayNumber": "14",
                     "title": "Карта желаний. Авторская методика",
-                    "description": "",
+                    "description": "Набор медитаций и практик на проработку убеждений",
                     "duration": 30,
                     "banner": null,
                     "accessCode":  [
