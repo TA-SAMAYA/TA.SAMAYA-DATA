@@ -2,9 +2,9 @@
     "data": [
         {
             "id": 297,
-            "title": "ЛЕГКИЕ ДЕНЬГИ",
+            "title": "ДЕНЬГИ ПО ЛЮБВИ",
             "description": "Как на просто общении с иностранцами делать деньги и стать долларовым миллионером за три года. Пошаговый план",
-            "duration": 3,
+            "duration": 30,
             "accessCode": [
                 "cash7657"
             ],
@@ -15,11 +15,33 @@
                 {
                     "id": 1,
                     "dayNumber": "1",
+                    "title": "Вера! Мои переводы! За что он платит?",
+                    "description": "",
+                    "duration": 20,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Задание дня: выписать сколько ролей вы выполняете в жизни и посчитать свою зарплату как если бы вы нанимали на эту роль сотрудников, понять что это сумма - ваш максимальный денежный потолок! И второе: Определить сколько, по чествному, я хочу денег и какой одной профессией с мностранцем я могу столько заработать",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }, {
+                    "id": 25656655,
+                    "dayNumber": "1",
                     "title": "О чем тут вообще: откуда деньги,как я на этом зарабатываю",
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode":null,
+                    "accessCode": [
+                        "139642",
+                        "2244554",
+                        "2141442"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -57,7 +79,11 @@
                     "description": "",
                     "duration": 10,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode": [
+                        "139642",
+                        "2244554",
+                        "2141442"
+                    ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "",
                     "lessonContent": [],
@@ -568,7 +594,7 @@
         },
         {
             "id": 1999,
-            "title": "ДЕНЬГИ ПО ЛЮБВИ",
+            "title": "ЛЕГКИЕ ДЕНЬГИ",
             "description": "Как зарабатывать миллионы на том что ты женщина",
             "duration": 14,
             "accessCode": [
