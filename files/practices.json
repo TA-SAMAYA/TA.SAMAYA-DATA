@@ -29,14 +29,14 @@
                     },
                     "availableDays": 90,
                     "startDate": null,
-                    "isAvailable": true
                 },
                 {
-                    "id": 25653446655,
+                   
+                    "id": 256534466505,
                     "dayNumber": "1",
                     "title": "Практика - страх отказа",
                     "description": "",
-                    "duration": 10,
+                    "duration": 12,
                     "banner": null,
                     "accessCode": [
                         "699",
@@ -49,8 +49,9 @@
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_BD5F3521-31E1-4B4D-9231-E67B119776F1.mp4",
                         "type": "video"
-                    },
+                },
                 {
+                   
                     "id": 25656655,
                     "dayNumber": "1",
                     "title": "О чем тут вообще: откуда деньги,как я на этом зарабатываю",
