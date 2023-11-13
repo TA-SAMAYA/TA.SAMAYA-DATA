@@ -97,6 +97,29 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 9523,
+                    "dayNumber": "1",
+                    "title": "Страх отказа, что с ним делать",
+                    "description": "",
+                    "duration": 12,
+                    "banner": null,
+                    "accessCode": [
+                        "5555",
+                        "2244554",
+                        "2141442"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Это поможет вам не сдаться на полпути и главное помни, что отказывают всем и это нормально",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_BD5F3521-31E1-4B4D-9231-E67B119776F1.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 4,
                     "dayNumber": "1",
                     "title": "Как просить,на что,особенности мужчин.Как сделать так чтобы он точно дал денег?!",
