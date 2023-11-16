@@ -622,8 +622,8 @@
             "description": "Как зарабатывать миллионы на том что ты женщина",
             "duration": 14,
             "accessCode": [
-                "20330",
-                "21332"
+                "200",
+                "212"
             ],
             "durationMeasuring": "days",
             "availableDays": 90,
@@ -632,16 +632,16 @@
                {
                     "id": 881,
                     "dayNumber": "1",
-                    "title": "Первая неделя",
-                    "description": "переводим на вотсап",
-                    "duration": 10,
+                    "title": "Вера! Мои переводы! За что он платит?",
+                    "description": "",
+                    "duration": 17,
                     "banner": null,
                       "accessCode":null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Ваша задача на эту неделю перевести 10 мужчин на вотсап по гайду из урока и сделать практику",
+                    "lessonTitle": "Задание дня: выписать сколько ролей вы выполняете в жизни и посчитать свою зарплату как если бы вы нанимали на эту роль сотрудников, понять что это сумма - ваш максимальный денежный потолок! И второе: Определить сколько я хочу денег и какой одной профессией с иностранцем я могу столько заработать, где и в чем моя сильная сторона, на основании ролей что я выполняю уже",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://www.pexels.com/ru-ru/video/3116737/",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -649,18 +649,113 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 95514,
-                    "dayNumber": "14",
+                    "id": 955314,
+                    "dayNumber": "1",
                     "title": "Дорогие подарки от мужчин",
                     "description": "Бонус",
-                    "duration": 30,
+                    "duration": 15,
                     "banner": null,
                     "accessCode":null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Это бонус и тут в основном про славянских мужчин",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://sincitym99i.s3.eu-north-1.amazonaws.com/dddd.mov?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBAaCmFwLXNvdXRoLTEiRzBFAiEAnQP74pRpCbjOZudivd%2FiXLEHWndELQ2kyotRjG8kAygCIHUxpiGFTmk%2BPe%2BtgdHhnas8OjLz%2B1e0dTZBrCAl%2FUyBKuQCCEoQABoMNzUxMjIxMjM0NTQ1IgymsTE1yaRxWoQ5AycqwQL4E%2BZixiX7VFup1IKja49vkq8Ix9JKKEiJ3HEEcZJHRBzU8V%2FBxDqlxM7%2F6hVbkIoxGJ84blBoT2vKAnr9FJ0SA17uMsDubG50xeZSFN%2FENEF3dnrtS3wBwTQrCcybna0qZ6xsIJr0wj6a6w473W2rd0wmkb0PDun63%2FQ7dcCzwfHE%2B85dJ0yH7kNFHhdGmydzyQ1y%2FMjPUEm6pTWH6eDr1tuOvIqh6LkQZ5CnuaQzRS3Z2CYMn4ehVuSkkcfLMC3ROB2GYjlsjWRXjb9cIt%2Fj4nVZYB%2Fjo8Sq5ygTU0CYwHML9UoBNIfDiQlpOEhH5xSvJ5SD9FLfj%2BuqJONrygw%2BtniEqEupnNuqZTfgCqad1ur3J5hwiLItVAT6r3pa4ve5kOgeH%2Fc1MCSAag3wS6v396IbMmXhzHUVjWIkCjbuz0Qwn7qUqgY6swLLDV%2FQkpxR61qwYlEASxRGCpH1%2BYdfRCLcWTgS%2FjpopyioEhWxhp1mgPtofyaY989gtHqbLt2P3xuvWPCI2WNLIYyAfL%2BAwfVfVP%2FerUh9bAa20ZhEQneR%2B9dJw5Usk%2F4VmZn8wVrIKxr3P0%2BqPx%2B4ASRef%2FsV17RGRYyFKOtTtek03G%2B7iW3CuwA1BnifBD1pJ9GaM4DD6O5U3%2BiOqymVyIbk3R71zcMoXoQRhE95mO5KG2rgySJmKhRJZ5WZ5PcGn12gWZaS1Vf312BkYZigJ0zXlyYxpxUD6QsfgFpbVTSQw6cYpDbdsPaHpe7DAKJ6yqmIxjPikJJo4jZGO8f81Z5pv4oYHMiiUtm6sMm%2Fh8pBA1iCueNqOsS2QcJwDMBXV5JUEAdnNNY3Tq%2BKNbnHmzN2&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231103T184409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=32400&X-Amz-Credential=ASIA252CGLNYV7DS5WHP%2F20231103%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Signature=cf27d357811076ff4a39ba2b1b2f0de292340829065cd142d870cf132271dc90",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/dddd.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955154,
+                    "dayNumber": "1",
+                    "title": "С кем общаться,как и на что просить?",
+                    "description": "Бонус",
+                    "duration": 30,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Выбираем только Америку,Австралию и Саудовскую Аравию",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_048BB95D-933E-4C79-A206-5B4642382672.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955814,
+                    "dayNumber": "1",
+                    "title": "Во что влюбляются все иностранцы.Правильное мышление,с 600$ на 6000$",
+                    "description": "Бонус",
+                    "duration": 8,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 959514,
+                    "dayNumber": "14",
+                    "title": "Взрослая позиция, как и куда принимать деньги",
+                    "description": "Бонус",
+                    "duration": 12,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9359514,
+                    "dayNumber": "14",
+                    "title": "Где брать мужчин и как общаться",
+                    "description": "Бонус",
+                    "duration": 12,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9595174,
+                    "dayNumber": "14",
+                    "title": "Задание первой недели",
+                    "description": "Бонус",
+                    "duration": 12,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-50FEB837-14A1-4703-9299-9653817DD1EA.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
