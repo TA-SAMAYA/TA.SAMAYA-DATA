@@ -915,6 +915,25 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 82981,
+                    "dayNumber": "20",
+                    "title": "Брачные сайты",
+                    "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
+                    "duration": 15,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Напишите в агенство, инст charm_brides и вас зарегистрируют, только по паспортам",
+                    "lessonContent": "",
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_087A6A67-5274-4152-A287-39F3CF0F49D1.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 914,
                     "dayNumber": "24",
                     "title": "Карта желаний. Авторская методика",
