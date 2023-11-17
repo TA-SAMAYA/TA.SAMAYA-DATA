@@ -877,6 +877,25 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 820421,
+                    "dayNumber": "10",
+                    "title": "Принять деньги, для русских",
+                    "description": "Просим деньги",
+                    "duration": 3,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Идеально - это весторн юнион на любую другую страну не рф, выдают с рф паспортом.Вариант два - карта казахстана. три - бинанс",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/audio/dgdrf.wav",
+                        "type": "audio"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 95723,
                     "dayNumber": "10",
                     "title": "Платные сайты",
@@ -946,6 +965,25 @@
                     "lessonContent": "",
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_087A6A67-5274-4152-A287-39F3CF0F49D1.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 829021,
+                    "dayNumber": "20",
+                    "title": "Пример переписки",
+                    "description": "Шлифуем навык - дорогие подарки,информация для профи играков",
+                    "duration": 15,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Несколько месяцев общения - как и о чем общались, как просили. Смотрите",
+                    "lessonContent": "",
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_2AE7C08C-9B3D-43E9-8E88-8F0D0E670417.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
