@@ -860,6 +860,25 @@
                 {
                     "id": 95723,
                     "dayNumber": "10",
+                    "title": "Платные сайты",
+                    "description": "",
+                    "duration": 5,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Только не рассылайте свои номера - вас могут заблочить",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C0FBE52A-D3A1-4A88-97CD-2C57A7CD1D9C.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 97723,
+                    "dayNumber": "10",
                     "title": "Страх отказа, что с ним делать",
                     "description": "",
                     "duration": 12,
@@ -878,19 +897,17 @@
                 },
                 {
                     "id": 8843981,
-                    "dayNumber": "1",
-                    "title": "Четвертая неделя",
+                    "dayNumber": "20",
+                    "title": "Создаем квартиру и машину за пол года",
                     "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
-                    "duration": 10,
+                    "duration": 12,
                     "banner": null,
-                    "accessCode": [
-                        "834699"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Просите по моей схеме и у вас будет так же как и у меня",
+                    "lessonTitle": "Главное что нужно понять - есть ли у него деньги, второе - закрываете ли вы ему потребность, третье - попали ли в ценность этой просьбой",
                     "lessonContent": "",
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/98775432.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_9E90D78C-635C-4A5D-A0AB-AD196391C7B1.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -899,7 +916,7 @@
                 },
                 {
                     "id": 914,
-                    "dayNumber": "14",
+                    "dayNumber": "24",
                     "title": "Карта желаний. Авторская методика",
                     "description": "Набор медитаций и практик на проработку убеждений",
                     "duration": 30,
