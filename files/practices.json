@@ -839,6 +839,25 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 822541,
+                    "dayNumber": "10",
+                    "title": "Чек лист действий и аскеза",
+                    "description": "Просим деньги",
+                    "duration": 9,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Главное его интерес в вас",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_484C4B27-14C6-4E97-B0C9-BAA55F421B0C.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 8041,
                     "dayNumber": "10",
                     "title": "Фрази,о чем общаться,теплота",
