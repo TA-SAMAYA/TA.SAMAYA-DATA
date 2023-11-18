@@ -618,7 +618,7 @@
         },
         {
             "id": 1999,
-            "title": "ЛЕГКИЕ ДЕНЬГИ",
+            "title": "ДЕНЬГИ ПО ЛЮБВИ 2.0",
             "description": "Как зарабатывать миллионы на том что ты женщина",
             "duration": 14,
             "accessCode": [
@@ -661,6 +661,25 @@
                     "lessonContent": [],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/dddd.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9595174,
+                    "dayNumber": "1",
+                    "title": "Задание первой недели",
+                    "description": "Бонус",
+                    "duration": 15,
+                    "banner": null,
+                    "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Задание первой недели - перевести минимум 10 мужчин на вотсап,фильтр на сайте: возраст и локация и вопросы которые помогут вам понять подходите ли вы друг другу.Дальше просто общаемся и расссказываем ему обо всем,социофобы - идите в гугл и узнайте темы общения с мужчинами, введите 100 questions to man",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-50FEB837-14A1-4703-9299-9653817DD1EA.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -775,25 +794,6 @@
                     "lessonContent": [],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-8959E12B-54C2-447F-8F93-4FCE4B3B3ED4.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 9595174,
-                    "dayNumber": "1",
-                    "title": "Задание первой недели",
-                    "description": "Бонус",
-                    "duration": 15,
-                    "banner": null,
-                    "accessCode":null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Задание первой недели - перевести минимум 10 мужчин на вотсап,фильтр на сайте: возраст и локация и вопросы которые помогут вам понять подходите ли вы друг другу.Дальше просто общаемся и расссказываем ему обо всем,социофобы - идите в гугл и узнайте темы общения с мужчинами, введите 100 questions to man",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-50FEB837-14A1-4703-9299-9653817DD1EA.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -945,8 +945,27 @@
                     "lessonTitle": "Главное что нужно понять - есть ли у него деньги, второе - закрываете ли вы ему потребность, третье - попали ли в ценность этой просьбой",
                     "lessonContent": "",
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_9E90D78C-635C-4A5D-A0AB-AD196391C7B1.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C803D9F7-67DC-433C-A6AD-CAF5724EE4FC.mp4",
                         "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 80471,
+                    "dayNumber": "10",
+                    "title": "Скрипты и ситуации",
+                    "description": "Просим деньги",
+                    "duration": 3,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/audio/hbvglivlv.wav",
+                        "type": "audio"
                     },
                     "availableDays": 90,
                     "startDate": null,
