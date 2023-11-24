@@ -264,6 +264,61 @@
             ]
         },
         {
+            "id": 195756699,
+            "title": "ДЕНЬГИ ПО ЛЮБВИ 3.0",
+            "description": "Как зарабатывать миллионы на том что ты женщина",
+            "duration": 30,
+            "accessCode": [
+                "2559ee0",
+                "21588502"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 90,
+            "startDate": null,
+            "content": [
+               {
+                    "id": 8657866681,
+                    "dayNumber": "1",
+                    "title": "Вера! Мои переводы! За что он платит?",
+                    "description": "",
+                    "duration": 17,
+                    "banner": null,
+                      "accessCode":null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Задание дня: выписать сколько ролей вы выполняете в жизни и посчитать свою зарплату как если бы вы нанимали на эту роль сотрудников, понять что это сумма - ваш максимальный денежный потолок! И второе: Определить сколько я хочу денег и какой одной профессией с иностранцем я могу столько заработать, где и в чем моя сильная сторона, на основании ролей что я выполняю уже",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 14554665869,
+                    "dayNumber": "3",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                "8844"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Скрипт - I don’t have anought money for it now and I need it so much,and my communication with u is soooo important for me, I like u … I feel that I start fall in love and will miss u. May be u can help me with it?!",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
+        },
+        {
             "id": 1999,
             "title": "ДЕНЬГИ ПО ЛЮБВИ 2.0",
             "description": "Как зарабатывать миллионы на том что ты женщина",
