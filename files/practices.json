@@ -6,7 +6,7 @@
             "description": "Как на просто общении с иностранцами делать деньги и стать долларовым миллионером за три года. Пошаговый план",
             "duration": 3,
             "accessCode": [
-                "9767"
+                "977767"
             ],
             "durationMeasuring": "days",
             "availableDays": 10,
@@ -1178,14 +1178,12 @@
                     "description": "Набор медитаций и практик на проработку убеждений",
                     "duration": 30,
                     "banner": null,
-                    "accessCode":  [
-                        "test2"
-                    ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "КАРТА ЖЕЛАНИЙ",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_6B5BC260-C41C-4C09-A92D-11FE497A75BE.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
