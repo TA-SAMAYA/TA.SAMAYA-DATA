@@ -1304,9 +1304,7 @@
                     "description": "Мини просьба",
                     "duration": 12,
                     "banner": null,
-                   "accessCode": [
-                "88344"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "На этой неделе фильтруем мужчин на платежеспособность и делаем мини просьбу из урока",
                     "lessonContent": [],
@@ -1325,9 +1323,7 @@
                     "description": "Просим деньги",
                     "duration": 13,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Как влюбить его в себя и что сказать!ЭТО САМЫЙ ВАЖНЫЙ УРОК!Побольше теплоты!ТЕПЛОТААААА!даааааа прям так говорите! ЭТО МЕГА ВАЖНО",
                     "lessonContent": [],
@@ -1346,9 +1342,7 @@
                     "description": "Просим деньги",
                     "duration": 9,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Главное его интерес в вас",
                     "lessonContent": [],
@@ -1367,9 +1361,7 @@
                     "description": "Просим деньги",
                     "duration": 3,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "смотри пдф файл",
                     "lessonContent": [],
@@ -1388,9 +1380,7 @@
                     "description": "Просим деньги",
                     "duration": 3,
                     "banner": null,
-                   "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Идеально - это весторн юнион на любую другую страну не рф, выдают с рф паспортом.Вариант два - карта казахстана. три - бинанс",
                     "lessonContent": [],
@@ -1409,9 +1399,7 @@
                     "description": "",
                     "duration": 5,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                       "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Только не рассылайте свои номера - вас могут заблочить",
                     "lessonContent": [],
@@ -1430,9 +1418,7 @@
                     "description": "",
                     "duration": 12,
                     "banner": null,
-                   "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Это поможет вам не сдаться на полпути и главное помни, что отказывают всем и это нормально",
                     "lessonContent": [],
