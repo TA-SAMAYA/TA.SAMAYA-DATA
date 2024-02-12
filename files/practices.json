@@ -1437,9 +1437,7 @@
                     "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
                     "duration": 12,
                     "banner": null,
-                   "accessCode": [
-                "88344"
-            ],
+                   "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Главное что нужно понять - есть ли у него деньги, второе - закрываете ли вы ему потребность, третье - попали ли в ценность этой просьбой",
                     "lessonContent": "",
@@ -1458,9 +1456,7 @@
                     "description": "Просим деньги",
                     "duration": 3,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "смотри пдф файл",
                     "lessonContent": [],
@@ -1479,9 +1475,7 @@
                     "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
                     "duration": 15,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                     "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Напишите в агенство, инст charm_brides и вас зарегистрируют, только по паспортам",
                     "lessonContent": "",
@@ -1500,9 +1494,7 @@
                     "description": "Шлифуем навык - дорогие подарки,информация для профи играков",
                     "duration": 15,
                     "banner": null,
-                    "accessCode": [
-                "88344"
-            ],
+                      "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Несколько месяцев общения - как и о чем общались, как просили. Смотрите",
                     "lessonContent": "",
@@ -1521,9 +1513,7 @@
                     "description": "Набор медитаций и практик на проработку убеждений",
                     "duration": 30,
                     "banner": null,
-                   "accessCode": [
-                "88344"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "КАРТА ЖЕЛАНИЙ",
                     "lessonContent": [],
