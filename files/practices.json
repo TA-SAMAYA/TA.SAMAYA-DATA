@@ -389,7 +389,7 @@
         },
         {
             "id": 199430788909,
-            "title": "Сайт Live,
+            "title": "Сайт Live",
             "description": "Cтартовая площадка для новичков. Стоимость $12, ты получишь доступ к сайту, поймёшь, подходит ли тебе стриминг, и сможешь заработать свои первые $50–500",
             "duration": 14,
             "accessCode": [
@@ -467,6 +467,97 @@
                     "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
+        },
+        {
+            "id": 199430745688909,
+            "title": "Королева Ножек",
+            "description": "Первые $100 на ногах. Где искать клиентов, что продавать, как общаться, какие фото работают лучше всего и как получать деньги без опыта",
+            "duration": 14,
+            "accessCode": [
+                "255",
+                "212402"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 90,
+            "startDate": null,
+            "content": [
+                {
+                    "id": 88544558399766251,
+                    "dayNumber": "1",
+                    "title": "Чек-лист: Первые $100 на ногах",
+                    "description": "Получи пошаговый план для первых продаж",
+                    "duration": 17,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Где продавать фото ног, как общаться с покупателями и что делать в первые 7 дней, чтобы получить первые деньги",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955879914553392444224,
+                    "dayNumber": "2",
+                    "title": "Чат с девочками и кураторами,
+                    "description": "Бонус",
+                    "duration": 11,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Прямой доступ к команде и девушкам, которые уже проходят этот путь. Помощь с контентом, поиском клиентов, общением с покупателями и ответы на любые вопросы в процессе работы",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9594244539440202024329514,
+                    "dayNumber": "3",
+                    "title": "Моя история: от нуля до $200 000",
+                    "description": "Бонус",
+                    "duration": 6,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Как я случайно попала в эту нишу, какие ошибки совершила и что бы сделала по-другому сегодня",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 93595665659870922268755514,
+                    "dayNumber": "4",
+                    "title": "",
+                    "description": "Как девушки зарабатывают от $100 до $3000+ в месяц",
+                    "duration": 8,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Полное понимание всей системы и того, как это работает изнутри",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
