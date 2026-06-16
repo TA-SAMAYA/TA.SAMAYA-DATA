@@ -387,6 +387,97 @@
                 }
             ]
         },
+        {
+            "id": 199430788909,
+            "title": "Сайт Live,
+            "description": "Cтартовая площадка для новичков. Стоимость $12, ты получишь доступ к сайту, поймёшь, подходит ли тебе стриминг, и сможешь заработать свои первые $50–500",
+            "duration": 14,
+            "accessCode": [
+                "255420",
+                "212402"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 90,
+            "startDate": null,
+            "content": [
+                {
+                    "id": 885445566251,
+                    "dayNumber": "1",
+                    "title": "Быстрый старт - регистрация",
+                    "description": "",
+                    "duration": 17,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Как зарегистрироваться, настроить профиль и выйти в эфир без ошибок",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955879912444224,
+                    "dayNumber": "2",
+                    "title": "Как заработать первые $50–100",
+                    "description": "Бонус",
+                    "duration": 11,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Разбор рабочих действий, которые приносят деньги уже в первые дни",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9594244539444329514,
+                    "dayNumber": "3",
+                    "title": "Первые деньги за общение",
+                    "description": "Бонус",
+                    "duration": 6,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9359566565987968755514,
+                    "dayNumber": "4",
+                    "title": "Разборы с психологом",
+                    "description": "Бонус",
+                    "duration": 8,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
+        },
       {
             "id": 2957,
             "title": "ДЕНЬГИ ПО ЛЮБВИ",
@@ -441,7 +532,7 @@
                 {
                     "id": 955587714,
                     "dayNumber": "3",
-                    "title": "Во что влюбляются все иностранцы.Правильное мышление,с 600$ на 6000$",
+                    "title": "Во что влюбляются все иностранцы.Мышление,с 600$ на 6000$",
                     "description": "Бонус",
                     "duration": 11,
                     "banner": null,
@@ -666,7 +757,7 @@
                 {
                     "id": 838454431,
                     "dayNumber": "14",
-                    "title": "Когда и на что просить.Тиндер",
+                    "title": "Тиндер - как даже в помойке найти хорошего мужчину",
                     "description": "Просим деньги",
                     "duration": 13,
                     "banner": null,
