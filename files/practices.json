@@ -66,8 +66,379 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                }
+                },
+                {
+                    "id": 4,
+                    "dayNumber": "4",
+                    "title": "Как получать большие деньги без откровённого контента",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 5,
+                    "dayNumber": "5",
+                    "title": "Ошибки, из-за которых девушки теряют 80% дохода",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 6,
+                    "dayNumber": "6",
+                    "title": "Продажа фото ног и фетиш-контента",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 7,
+                    "dayNumber": "7",
+                    "title": "Как влюбить мужчину и увести его с сайта",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 8,
+                    "dayNumber": "8",
+                    "title": "ИИ помощник переписки/ ии психолог - промт",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9,
+                    "dayNumber": "9",
+                    "title": "Эмоциональные качели и сильная привязка мужчины",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
             ]
         }
     ]
-}
+},
+{
+            "id": 297,
+            "title": "ДЕНЬГИ ПО ЛЮБВИ",
+            "description": "Как на просто общении с иностранцами делать деньги и стать долларовым миллионером за три года. Пошаговый план",
+            "duration": 3,
+            "accessCode": [
+                "9744467"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 10,
+            "startDate": null,
+            "content": [
+                {
+                    "id": 1,
+                    "dayNumber": "1",
+                    "title": "Вера! Мои переводы! За что он платит?",
+                    "description": "",
+                    "duration": 20,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Задание дня: выписать сколько ролей вы выполняете в жизни и посчитать свою зарплату как если бы вы нанимали на эту роль сотрудников, понять что это сумма - ваш максимальный денежный потолок! И второе: Определить сколько я хочу денег и какой одной профессией с иностранцем я могу столько заработать, где и в чем моя сильная сторона, на основании ролей что я выполняю уже ",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null
+                },
+                {
+                    "id": 95515584,
+                    "dayNumber": "1",
+                    "title": "С кем общаться,как и на что просить?",
+                    "description": "Бонус",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Выбираем только Америку,Австралию и Саудовскую Аравию",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_048BB95D-933E-4C79-A206-5B4642382672.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955587714,
+                    "dayNumber": "1",
+                    "title": "Во что влюбляются все иностранцы.Правильное мышление,с 600$ на 6000$",
+                    "description": "Бонус",
+                    "duration": 11,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Просить на проблему - это для тех кто хочет до 5000$ и только начинает! Обязательно найти что в его ценностях и на что он всегда даст денег",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 959775514,
+                    "dayNumber": "1",
+                    "title": "Взрослая позиция, как и куда принимать деньги",
+                    "description": "Бонус",
+                    "duration": 6,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Возьмите полную ответственость за свою жизнь и деньги начнут лится рекой",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 93759775154,
+                    "dayNumber": "1",
+                    "title": "Где брать мужчин и как общаться",
+                    "description": "Бонус",
+                    "duration": 8,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9595614,
+                    "dayNumber": "1",
+                    "title": "Практика меняющая мышление и ваши установки",
+                    "description": "Бонус",
+                    "duration": 13,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Сделать практику и применить ее на ваши отношения с иностранцами, почему вам выгодно что вам не дают мужчины денег",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-8959E12B-54C2-447F-8F93-4FCE4B3B3ED4.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 838454431,
+                    "dayNumber": "2",
+                    "title": "Когда и на что просить.Тиндер",
+                    "description": "Просим деньги",
+                    "duration": 13,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Как влюбить его в себя и что сказать!ЭТО САМЫЙ ВАЖНЫЙ УРОК!Побольше теплоты!ТЕПЛОТААААА!даааааа прям так говорите! ЭТО МЕГА ВАЖНО",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_D32788E8-E175-4C99-8DC9-D1795C62D9E0.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 82243541,
+                    "dayNumber": "2",
+                    "title": "Чек лист действий и аскеза",
+                    "description": "Просим деньги",
+                    "duration": 9,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Главное его интерес в вас",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_484C4B27-14C6-4E97-B0C9-BAA55F421B0C.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 95443723,
+                    "dayNumber": "2",
+                    "title": "Платные сайты",
+                    "description": "",
+                    "duration": 5,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Только не рассылайте свои номера - вас могут заблочить",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C0FBE52A-D3A1-4A88-97CD-2C57A7CD1D9C.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 8294581,
+                    "dayNumber": "2",
+                    "title": "Брачные сайты",
+                    "description": "Шлифуем навык - дорогие подарки,информация для профи играков ",
+                    "duration": 15,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Напишите в агенство, инст charm_brides и вас зарегистрируют, только по паспортам",
+                    "lessonContent": "",
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_087A6A67-5274-4152-A287-39F3CF0F49D1.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 82904521,
+                    "dayNumber": "2",
+                    "title": "Пример переписки",
+                    "description": "Шлифуем навык - дорогие подарки,информация для профи играков",
+                    "duration": 15,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Несколько месяцев общения - как и о чем общались, как просили. Смотрите",
+                    "lessonContent": "",
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_2AE7C08C-9B3D-43E9-8E88-8F0D0E670417.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 19,
+                    "dayNumber": "3",
+                    "title": "Приятный бонус",
+                    "description": "",
+                    "duration": 10,
+                    "banner": null,
+                    "accessCode": [
+                        "8844"
+                    ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Скрипт - I don’t have anought money for it now and I need it so much,and my communication with u is soooo important for me, I like u … I feel that I start fall in love and will miss u. May be u can help me with it?!",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                }
+            ]
+        }
