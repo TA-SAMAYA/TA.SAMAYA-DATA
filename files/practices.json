@@ -174,12 +174,10 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                },
+                 }
             ]
-        }
-    ]
-},
-{
+        },
+      {
             "id": 297,
             "title": "ДЕНЬГИ ПО ЛЮБВИ",
             "description": "Как на просто общении с иностранцами делать деньги и стать долларовым миллионером за три года. Пошаговый план",
@@ -439,6 +437,8 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                }
+             }
             ]
         }
+    ]
+}
