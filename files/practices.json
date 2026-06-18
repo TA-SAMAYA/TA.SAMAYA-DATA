@@ -504,7 +504,7 @@
                     "lessonContent": [],
                     "media": {
                         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_9647.JPG",
-                        "type": "video"
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -520,10 +520,12 @@
                     "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Прямой доступ к команде и девушкам, которые уже проходят этот путь. Помощь с контентом, поиском клиентов, общением с покупателями и ответы на любые вопросы в процессе работы",
-                    "lessonContent": [],
+                    "lessonContent":  [
+    "https://ta-samaya.github.io/TA.SAMAYA-DATA/files/banners.json"
+],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
-                        "type": "video"
+                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/files/banners.json",
+                        "type": "json"
                     },
                     "availableDays": 90,
                     "startDate": null,
