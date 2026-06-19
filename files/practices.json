@@ -6,7 +6,7 @@
             "description": "Два сайта, готовые скрипты, поддержка кураторов и пошаговая система заработка для девушек. Узнай, как выйти на $100–500 уже в первые дни и масштабироваться до $3000+ в месяц без опыта в переписке и стриминге",
             "duration": 30,
             "accessCode": [
-                "9744467"
+                "255"
             ],
             "durationMeasuring": "days",
             "availableDays": 30,
@@ -24,7 +24,7 @@
                     "lessonTitle": "Узнаешь главные ошибки новичков, которые лишают женщин денег. Разберём стратегию, которая позволяет быстро выйти на первые результаты",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/matherFatherPractice.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_F6CAD19E-CBE7-4E17-8FDF-45184409642E.mov",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -503,8 +503,8 @@
                     "lessonTitle": "Где продавать фото ног, как общаться с покупателями и что делать в первые 7 дней, чтобы получить первые деньги",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_9647.JPG",
-                        "type": "image"
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_2D6405E5-929F-4ECA-9800-1CFB690EF424.mov",
+                        "type": "video"
                     },
                     "availableDays": 90,
                     "startDate": null,
