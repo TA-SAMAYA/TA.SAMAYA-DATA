@@ -393,7 +393,7 @@
             "description": "Cтартовая площадка для новичков. Стоимость $12, ты получишь доступ к сайту, поймёшь, подходит ли тебе стриминг, и сможешь заработать свои первые $50–500",
             "duration": 14,
             "accessCode": [
-                "255420",
+                "255",
                 "212402"
             ],
             "durationMeasuring": "days",
@@ -412,7 +412,7 @@
                     "lessonTitle": "Как зарегистрироваться, настроить профиль и выйти в эфир без ошибок",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-171050_Recording_640x360.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
