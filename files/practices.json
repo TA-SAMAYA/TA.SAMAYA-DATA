@@ -524,8 +524,8 @@
     "https://ta-samaya.github.io/TA.SAMAYA-DATA/files/banners.json"
 ],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/files/banners.json",
-                        "type": "json"
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/landing+2.html",
+                        "type": "web"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -543,7 +543,7 @@
                     "lessonTitle": "Как я случайно попала в эту нишу, какие ошибки совершила и что бы сделала по-другому сегодня",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/landing+2.html",
                         "type": "video"
                     },
                     "availableDays": 90,
