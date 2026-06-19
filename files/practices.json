@@ -525,7 +525,7 @@
 ],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/landing+2.html",
-                        "type": "web"
+                        "type": "file"
                     },
                     "availableDays": 90,
                     "startDate": null,
