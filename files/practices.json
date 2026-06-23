@@ -412,7 +412,7 @@
                     "lessonTitle": "Как зарегистрироваться, настроить профиль и выйти в эфир без ошибок",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-171050_Recording_640x360.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/videoplayback.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -431,7 +431,7 @@
                     "lessonTitle": "Разбор рабочих действий, которые приносят деньги уже в первые дни",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-f52fe668-4181-46dc-bde8-2e4effa00b09_2CWEHqEu.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -450,7 +450,7 @@
                     "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-140147_Recording_1760x900.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -469,7 +469,7 @@
                     "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-171205_Recording_1920x1334+2.MP4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -491,12 +491,32 @@
   "availableDays": 90,
   "startDate": null,
   "content": [
+        {
+      "id": 8809251,
+      "dayNumber": "1",
+      "title": "Гайд по сайту и приложению",
+      "description": "Обязательно начни с этого!,
+      "duration": 3,
+      "banner": null,
+      "accessCode": null,
+      "durationMeasuring": "minutes",
+      "lessonTitle": "Обязательно начни с этого - тут гайд по приложению и сайту про который я говорю",
+      "lessonContent": [
+        "Добро пожаловать в приложение ❤️ Здесь собраны мои курсы, практики, медитации, чек-листы и пошаговые инструкции по заработку онлайн. Обязательно обновите приложение до последней версии! Если у вас не отображается плеер, нет кнопки скорости, не открывается полноэкранный режим, плохо работает чат или не видны сообщения — значит у вас установлена старая версия. Чтобы обновить приложение, на Главной странице найдите баннер «Обновление приложения» и нажмите на него — откроется ссылка для установки новой версии. Также на Главной странице есть баннер «Чек-лист по ногам». Если вы хотите почитать чек-лист, в следующем разделе — откроется дополнительное видео, где я подробно рассказываю все тонкости, нюансы работы с сайтом, как начать зарабатывать,обяьясняю чеклист в видео, как пользоваться чек-листом и на что обратить внимание новичкам"
+      "media": {
+        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/audio/Новая-запись-105.mp3",
+        "type": "audio"
+      },
+      "availableDays": 90,
+      "startDate": null,
+      "isAvailable": true
+    },
     {
       "id": 88544558399766251,
       "dayNumber": "1",
       "title": "Чек-лист: Первые $100 на ногах",
       "description": "Получи пошаговый план для первых продаж",
-      "duration": 17,
+      "duration": 12,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
@@ -517,11 +537,11 @@
       "dayNumber": "2",
       "title": "Чат с девочками и кураторами",
       "description": "Бонус",
-      "duration": 11,
+      "duration": 1,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
-      "lessonTitle": "Прямой доступ к команде и девушкам, которые уже проходят этот путь. Помощь с контентом, поиском клиентов, общением с покупателями и ответы на любые вопросы в процессе работы",
+      "lessonTitle": "🔐 Пароль от чата: met123 - тебе не нужно регестрироваться, просто заходи, вводи имя и пароль и ты попадаешь в чат. кнопка чата снизу, тебе нужен - код гейши",
       "lessonContent": [],
       "media": {
         "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/8711.jpg",
@@ -536,7 +556,7 @@
       "dayNumber": "3",
       "title": "Обучение по стримингу: от первых $100 до $200 000",
       "description": "Бонус",
-      "duration": 6,
+      "duration": 200,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
@@ -545,7 +565,7 @@
         "Это подробное обучающее видео для новичков.\n\nВнутри я пошагово рассказываю:\n• Как работает стриминг на самом деле.\n• Почему девушки зарабатывают деньги просто общаясь.\n• Как создать анкету и начать с нуля.\n• Что говорить мужчинам.\n• Как побороть страх камеры и страх осуждения.\n• Как получать первые чаевые и подарки.\n• Какие ошибки совершают почти все новички.\n• Как я прошла путь от первых 100$ до более чем 200 000$ заработка в этой нише.\n\nЕсли ты никогда не работала на подобных площадках и не понимаешь, с чего начать — начни именно с этого видео.\n\nПосле просмотра у тебя будет полная картина того, как устроен этот заработок и какие шаги нужно сделать для старта.\n\nТаймлайн:\n• В начале видео девушка рассказывает, как у неё получилось на Live.\n• В середине — пошаговое обучение.\n• В конце девушка рассказывает, как на большом сайте зарабатывает по 20 000 рублей в день."
       ],
       "media": {
-        "uri": "https://youtu.be/D7eY4lGrx4U",
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-f52fe668-4181-46dc-bde8-2e4effa00b09_2CWEHqEu.mp4",
         "type": "video"
       },
       "availableDays": 90,
@@ -557,7 +577,7 @@
       "dayNumber": "4",
       "title": "История девушки: первые деньги без опыта",
       "description": "Как девушки зарабатывают от $100 до $3000+ в месяц",
-      "duration": 8,
+      "duration": 18,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
@@ -566,7 +586,7 @@
         "В этом видео ты увидишь живое общение с девушками, которые уже работают на сайте и получают свои первые деньги.\n\nМы обсудили:\n• Сколько реально можно заработать новичку.\n• Что делать, если никогда не работала онлайн.\n• Как начать без опыта и без идеального английского.\n\nЭто реальные девушки, которые уже проходят этот путь прямо сейчас.\n\nЕсли ты до сих пор сомневаешься, обязательно посмотри это видео до конца."
       ],
       "media": {
-        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-e643b499-d1c8-4012-930a-f005c0cc6808_k3UeFxiy.mp4",
         "type": "video"
       },
       "availableDays": 90,
@@ -578,7 +598,7 @@
       "dayNumber": "5",
       "title": "Треш-история девушки из Америки",
       "description": "Сколько реально зарабатывают девушки?",
-      "duration": 8,
+      "duration": 18,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
@@ -587,7 +607,7 @@
         "В этом видео ты увидишь живое общение с девушкой, которая уже попробовала сайт и получила первый опыт.\n\nМы обсудили:\n• Какие страхи были перед стартом.\n• Что оказалось проще, чем она думала.\n• Какие ситуации могут происходить на сайте.\n• Почему не нужно бояться начинать.\n\nЕсли ты до сих пор сомневаешься, обязательно посмотри это видео до конца."
       ],
       "media": {
-        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/american+girl.mp4",
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/american-girl_Pr9Go6A9.mp4",
         "type": "video"
       },
       "availableDays": 90,
@@ -599,7 +619,7 @@
       "dayNumber": "6",
       "title": "Мне 30+, я в разводе — получится ли у меня?",
       "description": "А если мне за 30 и я в разводе, у меня получится?",
-      "duration": 8,
+      "duration": 18,
       "banner": null,
       "accessCode": null,
       "durationMeasuring": "minutes",
