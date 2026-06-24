@@ -392,10 +392,7 @@
             "title": "Сайт Live",
             "description": "Cтартовая площадка для новичков. Стоимость $12, ты получишь доступ к сайту, поймёшь, подходит ли тебе стриминг, и сможешь заработать свои первые $50–500",
             "duration": 14,
-            "accessCode": [
-                "255",
-                "212402"
-            ],
+            "accessCode": null,
             "durationMeasuring": "days",
             "availableDays": 90,
             "startDate": null,
@@ -431,7 +428,7 @@
                     "lessonTitle": "Я работаю на ливе в 2026 и отвечаю на вопросы",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-f52fe668-4181-46dc-bde8-2e4effa00b09_2CWEHqEu.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-140147_Recording_1760x900.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -450,7 +447,7 @@
                     "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить, а что если ты боишься начать - как начала я",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-140147_Recording_1760x900.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-f52fe668-4181-46dc-bde8-2e4effa00b09_2CWEHqEu.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -464,7 +461,10 @@
                     "description": "",
                     "duration": 17,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255",
+                "212402"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Как зарегистрироваться, настроить профиль и выйти в эфир без ошибок",
                     "lessonContent": [],
@@ -483,7 +483,10 @@
                     "description": "Бонус",
                     "duration": 11,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255",
+                "212402"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Разбор рабочих действий, которые приносят деньги уже в первые дни",
                     "lessonContent": [],
@@ -502,7 +505,10 @@
                     "description": "Бонус",
                     "duration": 6,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255",
+                "212402"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить",
                     "lessonContent": [],
@@ -521,7 +527,10 @@
                     "description": "Бонус",
                     "duration": 8,
                     "banner": null,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255",
+                "212402"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
                     "lessonContent": [],
