@@ -2,13 +2,13 @@
     "data": [
         {
             "id": 0,
-            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_9647.JPG",
-            "link": "https://t.me/CheatCodeForU_bot"
+            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_8553.JPG",
+            "link": "https://ta-samaya.github.io/gcode/"
         },
         {
             "id": 1,
-            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_8101 (1).JPG",
-            "link": ""
+            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_9647.JPG",
+            "link": "https://t.me/CheatCodeForU_bot"
         },
         {
             "id": 2,
@@ -16,9 +16,14 @@
             "link": "https://youtu.be/5nr7uj2f58E"
         },
         {
+            "id": 12,
+            "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_8101 (1).JPG",
+            "link": "https://ta-samaya.github.io/gyde/"
+        },
+        {
             "id": 3,
             "image": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/images/IMG_8100 (1).JPG",
-            "link": "https://t.me/m/qgpcYRRrYWRi"
+            "link": "https://ta-samaya.github.io/marinaritzy77/"
         }
     ]
 }
