@@ -21,7 +21,7 @@
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Обязательно посмотри - чтобы ориентироваться в обучении",
+                    "lessonTitle": "Обязательно посмотри - чтобы ориентироваться в обучении \n\n основное обучение находится в тг канале: https://t.me/+ul0TQxCoZZ85OThi \n\n вбивать вручную!\n\nназывается - обучение карамели",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_F6CAD19E-CBE7-4E17-8FDF-45184409642E.mov",
@@ -52,34 +52,15 @@
                 {
                     "id": 288,
                     "dayNumber": "1",
-                    "title": "7 типов мужчин и что каждый хочет услышать",
+                    "title": "Гайд по ножкам",
                     "description": "",
                     "duration": 40,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Тут также скрипты что кому отвечать",
+                    "lessonTitle": "Гайд находится в тг канале: https://t.me/+BG1a8kbLP805MWIy \n\n вбивать вручную!\n\nназывается - королева ножек",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-4a653054-63ec-4eec-86b6-604e3d0ed332_yEX6TR3B.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 1,
-                    "dayNumber": "2",
-                    "title": "Почему одни девушки зарабатывают $100, а другие больше $3000",
-                    "description": "",
-                    "duration": 40,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Узнаешь главные ошибки новичков, которые лишают женщин денег. Разберём стратегию, которая позволяет быстро выйти на первые результаты",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_F6CAD19E-CBE7-4E17-8FDF-45184409642E.mov",
+                        "uri": "",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -107,12 +88,35 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 1,
+                    "dayNumber": "8",
+                    "title": "Почему одни девушки зарабатывают $100, а другие больше $3000",
+                    "description": "",
+                    "duration": 40,
+                    "banner": null,
+                    "accessCode":  [
+                "255"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Узнаешь главные ошибки новичков, которые лишают женщин денег. Разберём стратегию, которая позволяет быстро выйти на первые результаты",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_F6CAD19E-CBE7-4E17-8FDF-45184409642E.mov",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 3,
                     "dayNumber": "3",
                     "title": "Секретные скрипты переписок на $1000 и больше",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -130,7 +134,9 @@
                     "title": "Как получать большие деньги без откровённого контента",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -148,7 +154,9 @@
                     "title": "Ошибки, из-за которых девушки теряют 80% дохода",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -166,7 +174,9 @@
                     "title": "Продажа фото ног и фетиш-контента",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -184,7 +194,9 @@
                     "title": "Как влюбить мужчину и увести его с сайта",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -202,7 +214,9 @@
                     "title": "ИИ помощник переписки/ ии психолог - промт",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -220,7 +234,9 @@
                     "title": "Разборы с психологом",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
@@ -238,7 +254,9 @@
                     "title": "Эмоциональные качели и сильная привязка мужчины",
                     "description": "",
                     "duration": 40,
-                    "accessCode": null,
+                    "accessCode":  [
+                "255"
+            ],
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
