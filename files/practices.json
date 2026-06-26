@@ -6,7 +6,7 @@
             "description": "Два сайта, готовые скрипты, поддержка кураторов и пошаговая система заработка для девушек. Узнай, как выйти на $100–500 уже в первые дни и масштабироваться до $3000+ в месяц без опыта в переписке и стриминге",
             "duration": 30,
             "accessCode": [
-                "255"
+                "439"
             ],
             "durationMeasuring": "days",
             "availableDays": 30,
@@ -93,9 +93,7 @@
                     "title": "Секретные скрипты переписок на $1000 и больше",
                     "description": "",
                     "duration": 40,
-                    "accessCode":  [
-                "255"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Переписка девушки в привате - о чем они общаются",
                     "lessonContent": [],
@@ -113,15 +111,13 @@
                     "title": "Разборы с психологом",
                     "description": "",
                     "duration": 40,
-                    "accessCode":  [
-                "255"
-            ],
+                    "accessCode":  null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
                     "lessonContent": [],
                     "media": {
-                        "uri": "",
-                        "type": "image"
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260626-140202_Recording_640x360.mp4",
+                        "type": "video"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -467,7 +463,10 @@
             "title": "Сайт Live",
             "description": "Cтартовая площадка для новичков. Стоимость $12, ты получишь доступ к сайту, поймёшь, подходит ли тебе стриминг, и сможешь заработать свои первые $50–500",
             "duration": 14,
-            "accessCode": null,
+            "accessCode":  [
+                "211",
+                "212402"
+            ],
             "durationMeasuring": "days",
             "availableDays": 90,
             "startDate": null,
@@ -513,16 +512,18 @@
                 {
                     "id": 95942614,
                     "dayNumber": "3",
-                    "title": "Первые деньги за общение",
+                    "title": "Обучениe,типажи мужчин, скрипты, как заработать первые $50–100",
                     "description": "Бонус",
                     "duration": 206,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить, а что если ты боишься начать - как начала я",
-                    "lessonContent": [],
+                    "lessonContent": [
+                        "Обучение ливу в тг: https://t.me/+phPAfSahuK1hNWYy\n\n вводите вручную или ищите в поиске, канал называется - обучение маленькому сайту"
+                    ],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-f52fe668-4181-46dc-bde8-2e4effa00b09_2CWEHqEu.mp4",
+                        "uri": "hhttps://gcodetrue.s3.eu-west-2.amazonaws.com/copy-4a653054-63ec%D0%B0%D0%B3%D0%BB%D0%B4-4eec-86b6-604e3d0ed332_yEX6TR3B.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -532,19 +533,16 @@
                 {
                     "id": 885445566251,
                     "dayNumber": "1",
-                    "title": "Быстрый старт - регистрация",
+                    "title": "Работа с психологом - разбор страхов",
                     "description": "",
                     "duration": 17,
                     "banner": null,
-                    "accessCode":  [
-                "255",
-                "212402"
-            ],
+                    "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Как зарегистрироваться, настроить профиль и выйти в эфир без ошибок",
+                    "lessonTitle": "Если вы боитесь начать - это для вас",
                     "lessonContent": [],
                     "media": {
-                        "uri": "",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260626-140202_Recording_640x360.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -558,59 +556,12 @@
                     "description": "Бонус",
                     "duration": 11,
                     "banner": null,
-                    "accessCode":  [
-                "255",
-                "212402"
-            ],
+                    "accessCode":  null,
                     "durationMeasuring": "minutes",
                     "lessonTitle": "Разбор рабочих действий, которые приносят деньги уже в первые дни",
                     "lessonContent": [],
                     "media": {
-                        "uri": "",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 9594244539444329514,
-                    "dayNumber": "3",
-                    "title": "Первые деньги за общение",
-                    "description": "Бонус",
-                    "duration": 6,
-                    "banner": null,
-                    "accessCode":  [
-                "255",
-                "212402"
-            ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 9359566565987968755514,
-                    "dayNumber": "4",
-                    "title": "Разборы с психологом",
-                    "description": "Бонус",
-                    "duration": 8,
-                    "banner": null,
-                    "accessCode":  [
-                "255",
-                "212402"
-            ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/img-0800_55NSEmZ8.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
