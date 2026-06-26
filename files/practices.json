@@ -51,8 +51,8 @@
                 },
                 {
                     "id": 288,
-                    "dayNumber": "1",
-                    "title": "Гайд по ножкам",
+                    "dayNumber": "2",
+                    "title": "Продажа фото ног и фетиш-контента",
                     "description": "",
                     "duration": 40,
                     "accessCode": null,
@@ -61,7 +61,7 @@
                     "lessonContent": [],
                     "media": {
                         "uri": "",
-                        "type": "video"
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -88,8 +88,68 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 3,
+                    "dayNumber": "3",
+                    "title": "Секретные скрипты переписок на $1000 и больше",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode":  [
+                "255"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Переписка девушки в привате - о чем они общаются",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/zapis-raboty-na-saite-1_S44PS3Jh.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 99,
+                    "dayNumber": "6",
+                    "title": "Разборы с психологом",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode":  [
+                "255"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "image"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9,
+                    "dayNumber": "9",
+                    "title": "ИИ помощник переписки/ ии психолог - промт",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode":  [
+                "255"
+            ],
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "",
+                        "type": "image"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 1,
-                    "dayNumber": "8",
+                    "dayNumber": "11",
                     "title": "Почему одни девушки зарабатывают $100, а другие больше $3000",
                     "description": "",
                     "duration": 40,
@@ -101,28 +161,8 @@
                     "lessonTitle": "Узнаешь главные ошибки новичков, которые лишают женщин денег. Разберём стратегию, которая позволяет быстро выйти на первые результаты",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_F6CAD19E-CBE7-4E17-8FDF-45184409642E.mov",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 3,
-                    "dayNumber": "3",
-                    "title": "Секретные скрипты переписок на $1000 и больше",
-                    "description": "",
-                    "duration": 40,
-                    "accessCode":  [
-                "255"
-            ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -130,7 +170,7 @@
                 },
                 {
                     "id": 4,
-                    "dayNumber": "4",
+                    "dayNumber": "11",
                     "title": "Как получать большие деньги без откровённого контента",
                     "description": "",
                     "duration": 40,
@@ -138,11 +178,11 @@
                 "255"
             ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": ",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -150,7 +190,7 @@
                 },
                 {
                     "id": 5,
-                    "dayNumber": "5",
+                    "dayNumber": "11",
                     "title": "Ошибки, из-за которых девушки теряют 80% дохода",
                     "description": "",
                     "duration": 40,
@@ -158,11 +198,11 @@
                 "255"
             ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -170,19 +210,19 @@
                 },
                 {
                     "id": 6,
-                    "dayNumber": "6",
-                    "title": "Продажа фото ног и фетиш-контента",
+                    "dayNumber": "13",
+                    "title": "Вторая карамель",
                     "description": "",
                     "duration": 40,
                     "accessCode":  [
                 "255"
             ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": "как работать на второй карамели",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -190,7 +230,7 @@
                 },
                 {
                     "id": 7,
-                    "dayNumber": "7",
+                    "dayNumber": "13",
                     "title": "Как влюбить мужчину и увести его с сайта",
                     "description": "",
                     "duration": 40,
@@ -198,51 +238,11 @@
                 "255"
             ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 8,
-                    "dayNumber": "8",
-                    "title": "ИИ помощник переписки/ ии психолог - промт",
-                    "description": "",
-                    "duration": 40,
-                    "accessCode":  [
-                "255"
-            ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 99,
-                    "dayNumber": "9",
-                    "title": "Разборы с психологом",
-                    "description": "",
-                    "duration": 40,
-                    "accessCode":  [
-                "255"
-            ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
@@ -250,7 +250,7 @@
                 },
                 {
                     "id": 10,
-                    "dayNumber": "10",
+                    "dayNumber": "13",
                     "title": "Эмоциональные качели и сильная привязка мужчины",
                     "description": "",
                     "duration": 40,
@@ -258,11 +258,11 @@
                 "255"
             ],
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Смотрим видео и определяем ваш личный ступор",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/defineStupor.mp4",
-                        "type": "video"
+                        "uri": "",
+                        "type": "image"
                     },
                     "availableDays": 90,
                     "startDate": null,
