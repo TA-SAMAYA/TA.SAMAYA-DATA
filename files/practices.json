@@ -255,6 +255,93 @@
             ]
         },
         {
+            "id": 1959,
+            "title": "VIP КЛУБ",
+            "description": "Клуб + сайт на котором ты заработаешь до 5000 долларов и получишь доступ к курсу - деньги по любви",
+            "duration": 14,
+            "accessCode": [
+                "255420",
+                "212402"
+            ],
+            "durationMeasuring": "days",
+            "availableDays": 90,
+            "startDate": null,
+            "content": [
+                {
+                    "id": 888861,
+                    "dayNumber": "1",
+                    "title": "Секстинг - что это и как это делать",
+                    "description": "",
+                    "duration": 17,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "как растягивать приваты и что в них делать с пошлыми",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-0f7e76c1-5d4b-4ac9-a0e2-ee6916665d5f_0zqwgeQY.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955884,
+                    "dayNumber": "2",
+                    "title": "Как я общаюсь в приватах",
+                    "description": "Бонус",
+                    "duration": 11,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Мое практическое применение секстинга из предыдущих уроков",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-2af18b02-6141-437c-b028-a00c15911253_ChPvose0.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 953514,
+                    "dayNumber": "3",
+                    "title": "Секстинг голосом на русском",
+                    "description": "Бонус",
+                    "duration": 6,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Тут можно взять фразы",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/IMG_5326.MP4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 9359533514,
+                    "dayNumber": "4",
+                    "title": "Палиенко про сексуальную энергию",
+                    "description": "Бонус",
+                    "duration": 8,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-ec66e347-c876-4b6e-9a39-5e6c09533d15-1_XI7TAUXE.mp4",
+                        "type": "video"
+                         }
+            ]
+                    },
+        {
             "id": 19943009,
             "title": "Средний сайт",
             "description": "Клуб + сайт на котором ты заработаешь до 5000 долларов и получишь доступ к курсу - деньги по любви",
