@@ -325,7 +325,7 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 9359533514,
+                    "id": 99964,
                     "dayNumber": "4",
                     "title": "Палиенко про сексуальную энергию",
                     "description": "Бонус",
@@ -338,9 +338,10 @@
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-ec66e347-c876-4b6e-9a39-5e6c09533d15-1_XI7TAUXE.mp4",
                         "type": "video"
-                         }
+                             "isAvailable": true
+                }
             ]
-                    },
+        },
         {
             "id": 19943009,
             "title": "Средний сайт",
