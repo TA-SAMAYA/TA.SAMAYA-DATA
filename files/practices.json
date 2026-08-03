@@ -338,11 +338,14 @@
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-ec66e347-c876-4b6e-9a39-5e6c09533d15-1_XI7TAUXE.mp4",
                         "type": "video"
-                             "isAvailable": true
+                },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
                 },
                 {
                     "id": 28788,
-                    "dayNumber": "2",
+                    "dayNumber": "4",
                     "title": "Теория 5 сообщений/скрипты",
                     "description": "",
                     "duration": 40,
