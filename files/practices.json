@@ -567,47 +567,9 @@
             "availableDays": 90,
             "startDate": null,
             "content": [
-                {
-                    "id": 8866251,
-                    "dayNumber": "1",
-                    "title": "Как работать на этом сайте",
-                    "description": "",
-                    "duration": 177,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Я работаю на этом сайте в 2023 и девочки рассказывают как у них тут получается",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/videoplayback.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 955876224,
-                    "dayNumber": "2",
-                    "title": "Я работаю на ливе в 2026",
-                    "description": "Бонус",
-                    "duration": 111,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Я работаю на ливе в 2026 и отвечаю на вопросы",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-140147_Recording_1760x900.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
+                 {
                     "id": 95942614,
-                    "dayNumber": "3",
+                    "dayNumber": "1",
                     "title": "Обучениe,типажи мужчин, скрипты, как заработать первые $50–100",
                     "description": "Бонус",
                     "duration": 206,
@@ -627,8 +589,46 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 8866251,
+                    "dayNumber": "2",
+                    "title": "Как работать на этом сайте",
+                    "description": "",
+                    "duration": 177,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Я работаю на этом сайте в 2023 и девочки рассказывают как у них тут получается",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/videoplayback.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
+                    "id": 955876224,
+                    "dayNumber": "3",
+                    "title": "Я работаю на ливе в 2026",
+                    "description": "Бонус",
+                    "duration": 111,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "Я работаю на ливе в 2026 и отвечаю на вопросы",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260611-140147_Recording_1760x900.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 885445566251,
-                    "dayNumber": "1",
+                    "dayNumber": "4",
                     "title": "Работа с психологом - разбор страхов",
                     "description": "",
                     "duration": 17,
@@ -647,7 +647,7 @@
                 },
                 {
                     "id": 955879912444224,
-                    "dayNumber": "2",
+                    "dayNumber": "5",
                     "title": "Как заработать первые $50–100",
                     "description": "Бонус",
                     "duration": 11,
