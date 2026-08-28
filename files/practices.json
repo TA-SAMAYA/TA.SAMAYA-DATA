@@ -371,7 +371,7 @@
             "description": "Клуб + сайт на котором ты заработаешь до 5000 долларов и получишь доступ к курсу - деньги по любви",
             "duration": 14,
             "accessCode": [
-                "255420",
+                "6767",
                 "212402"
             ],
             "durationMeasuring": "days",
@@ -443,111 +443,10 @@
                     "duration": 40,
                     "accessCode":  null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Второе обучающее видео - первое это предыдущее",
+                    "lessonTitle": "Второе обучающее видео - первое это предыдущее.Промты будут открыты в обучении 3го сентября",
                     "lessonContent": [],
                     "media": {
                         "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260630-170130_Recording_1920x1334.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 9955454514,
-                    "dayNumber": "5",
-                    "title": "Энергия женщины высокого уровня",
-                    "description": "Бонус",
-                    "duration": 3,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Самый элементарный и лучший вариант люкси и люкси селеб",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/audio/tftu.wav",
-                        "type": "audio"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 995466414,
-                    "dayNumber": "6",
-                    "title": "Почему ты выбираешь не тех мужчин",
-                    "description": "Бонус",
-                    "duration": 13,
-                    "banner": null,
-                    "accessCode": null,
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Сделать практику и применить ее на ваши отношения с иностранцами, почему вам выгодно что вам не дают мужчины денег",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-8959E12B-54C2-447F-8F93-4FCE4B3B3ED4.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 91444435355544,
-                    "dayNumber": "7",
-                    "title": "Открыт доступ у курсу - Деньги по любви",
-                    "description": "Набор медитаций и практик на проработку убеждений",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode": [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "КАРТА ЖЕЛАНИЙ",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 9819563553595444,
-                    "dayNumber": "9",
-                    "title": "Мастермайн-разборы,ответы на вопросы",
-                    "description": "Запись мастермайндов с Мариной и ответами на часто задаваемые вопросы,разбор личных ситуаций",
-                    "duration": 30,
-                    "banner": null,
-                    "accessCode": [
-                        "test2"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "КАРТА ЖЕЛАНИЙ",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
-                        "type": "video"
-                    },
-                    "availableDays": 90,
-                    "startDate": null,
-                    "isAvailable": true
-                },
-                {
-                    "id": 145535354665869,
-                    "dayNumber": "12",
-                    "title": "Как выйти на содержание",
-                    "description": "",
-                    "duration": 10,
-                    "banner": null,
-                    "accessCode": [
-                        "88344"
-                    ],
-                    "durationMeasuring": "minutes",
-                    "lessonTitle": "Скрипт - I don’t have anought money for it now and I need it so much,and my communication with u is soooo important for me, I like u … I feel that I start fall in love and will miss u. May be u can help me with it?!",
-                    "lessonContent": [],
-                    "media": {
-                        "uri": "https://ta-samaya.github.io/TA.SAMAYA-DATA/media/video/656477575.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
