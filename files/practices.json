@@ -379,20 +379,20 @@
             "startDate": null,
             "content": [
                 {
-                    "id": 8854451,
+                    "id": 99944964,
                     "dayNumber": "1",
-                    "title": "Почему деньги не приходят легко",
-                    "description": "",
-                    "duration": 17,
+                    "title": "Глубинный смысл зачем мы этим занимаемся",
+                    "description": "Бонус",
+                    "duration": 8,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Задание дня: выписать сколько ролей вы выполняете в жизни и посчитать свою зарплату как если бы вы нанимали на эту роль сотрудников, понять что это сумма - ваш максимальный денежный потолок! И второе: Определить сколько я хочу денег и какой одной профессией с иностранцем я могу столько заработать, где и в чем моя сильная сторона, на основании ролей что я выполняю уже",
+                    "lessonTitle": "Палиенко про сексуальную энергию",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-68406148-C562-4196-AE14-5FA5A1078B35.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-ec66e347-c876-4b6e-9a39-5e6c09533d15-1_XI7TAUXE.mp4",
                         "type": "video"
-                    },
+                },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
@@ -400,35 +400,35 @@
                 {
                     "id": 955812444224,
                     "dayNumber": "2",
-                    "title": "Как убрать страх просить деньги лично",
-                    "description": "Бонус",
+                    "title": "Эфир с юристом для Рф",
+                    "description": "Безопасно ли это",
                     "duration": 11,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Просить на проблему - это для тех кто хочет до 5000$ и только начинает! Обязательно найти что в его ценностях и на что он всегда даст денег",
+                    "lessonTitle": "",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_8EEEED95-76A9-4112-8081-C22F5265CBAA.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/%D1%8D%D1%84%D0%B8%D1%80+%D1%81+%D1%8E%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BC+%D1%80%D1%84.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
                 },
-                {
-                    "id": 95942445514,
+                    {
+                    "id": 95942644614,
                     "dayNumber": "3",
-                    "title": "Установки, которые заставляют много работать и мало получать",
+                    "title": "Обучениe,типажи мужчин, скрипты, как заработать первые $50–100",
                     "description": "Бонус",
-                    "duration": 6,
+                    "duration": 206,
                     "banner": null,
                     "accessCode": null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "Возьмите полную ответственость за свою жизнь и деньги начнут лится рекой",
+                    "lessonTitle": "Что говорить мужчинам, чтобы они задерживались в чате и начинали платить, а что если ты боишься начать - как начала я",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/video-output-32EBAD18-971A-4437-B250-BA0CE41A4470.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-4a653054-63ec%D0%B0%D0%B3%D0%BB%D0%B4-4eec-86b6-604e3d0ed332_yEX6TR3B.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -436,18 +436,17 @@
                     "isAvailable": true
                 },
                 {
-                    "id": 935956656514,
+                    "id": 783930202,
                     "dayNumber": "4",
-                    "title": "Разборы с психологом",
-                    "description": "Бонус",
-                    "duration": 8,
-                    "banner": null,
-                    "accessCode": null,
+                    "title": "Как влюбить мужчину и увести его с сайта",
+                    "description": "",
+                    "duration": 40,
+                    "accessCode":  null,
                     "durationMeasuring": "minutes",
-                    "lessonTitle": "luxy, seeking.com лучшие сайты после брачных - всех своих мужчин я нашла на брачных! Выставляем фильтр от 45 лет и локацию",
+                    "lessonTitle": "Второе обучающее видео - первое это предыдущее",
                     "lessonContent": [],
                     "media": {
-                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy_C139AA03-34B7-492F-9008-F2959EFCA9CB.mp4",
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260630-170130_Recording_1920x1334.mp4",
                         "type": "video"
                     },
                     "availableDays": 90,
@@ -663,8 +662,72 @@
                     "availableDays": 90,
                     "startDate": null,
                     "isAvailable": true
-                }
-            ]
+                },
+    {
+      "id": 93593514,
+      "dayNumber": "4",
+      "title": "История девушки: первые деньги без опыта",
+      "description": "Как девушки зарабатывают от $100 до $3000+ в месяц",
+      "duration": 18,
+      "banner": null,
+      "accessCode": null,
+      "durationMeasuring": "minutes",
+      "lessonTitle": "Девушка рассказала, как за 4 часа на сайте заработала столько же, сколько в найме за 12 часов — без опыта и знания английского",
+      "lessonContent": [
+        "В этом видео ты увидишь живое общение с девушками, которые уже работают на сайте и получают свои первые деньги.\n\nМы обсудили:\n• Сколько реально можно заработать новичку.\n• Что делать, если никогда не работала онлайн.\n• Как начать без опыта и без идеального английского.\n\nЭто реальные девушки, которые уже проходят этот путь прямо сейчас.\n\nЕсли ты до сих пор сомневаешься, обязательно посмотри это видео до конца."
+      ],
+      "media": {
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/copy-e643b499-d1c8-4012-930a-f005c0cc6808_k3UeFxiy.mp4",
+        "type": "video"
+      },
+      "availableDays": 90,
+      "startDate": null,
+      "isAvailable": true
+    },
+    {
+      "id": 933224,
+      "dayNumber": "5",
+      "title": "Треш-история девушки из Америки",
+      "description": "Сколько реально зарабатывают девушки?",
+      "duration": 18,
+      "banner": null,
+      "accessCode": null,
+      "durationMeasuring": "minutes",
+      "lessonTitle": "Девушка из Америки давно хотела попробовать себя в стриминге и рассказала треш-историю на сайте",
+      "lessonContent": [
+        "В этом видео ты увидишь живое общение с девушкой, которая уже попробовала сайт и получила первый опыт.\n\nМы обсудили:\n• Какие страхи были перед стартом.\n• Что оказалось проще, чем она думала.\n• Какие ситуации могут происходить на сайте.\n• Почему не нужно бояться начинать.\n\nЕсли ты до сих пор сомневаешься, обязательно посмотри это видео до конца."
+      ],
+      "media": {
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/american-girl_Pr9Go6A9.mp4",
+        "type": "video"
+      },
+      "availableDays": 90,
+      "startDate": null,
+      "isAvailable": true
+    },
+    {
+      "id": 930214,
+      "dayNumber": "6",
+      "title": "Мне 30+, я в разводе — получится ли у меня?",
+      "description": "А если мне за 30 и я в разводе, у меня получится?",
+      "duration": 18,
+      "banner": null,
+      "accessCode": null,
+      "durationMeasuring": "minutes",
+      "lessonTitle": "Девушка в разводе рассказала, как с одного чата заработала почти 200$",
+      "lessonContent": [
+        "В этом видео ты увидишь историю девушки, которая сомневалась, получится ли у неё начать.\n\nМы обсудили:\n• Можно ли зарабатывать, если тебе не 18.\n• Что делать, если нет опыта.\n• Как один чат может принести почти 200$.\n• Почему возраст и прошлый опыт не мешают старту.\n\nЭто реальная история девушки, которая уже проходит этот путь.\n\nЕсли ты думаешь, что тебе поздно или ты не подходишь — обязательно посмотри это видео."
+      ],
+      "media": {
+        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/GMT20260620-161328_Recording_640x360.mov",
+        "type": "video"
+      },
+      "availableDays": 90,
+      "startDate": null,
+      "isAvailable": true
+    }
+  ]
+},
         },
         {
   "id": 199430745688909,
