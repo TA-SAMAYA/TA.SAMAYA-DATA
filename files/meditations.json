@@ -6,7 +6,9 @@
             "description": "Для дней, когда хочется вспомнить, кто ты такая. Практика на самоценность, уверенность, любовь к себе и состояние женщины, которая знает: она достойна самого лучшего",
             "duration": 7,
             "banner": "",
-            "accessCode": null,
+            "accessCode":[
+                "sweet65"
+            ],
             "durationMeasuring": "minutes",
             "lessonTitle": "",
             "lessonContent": [
