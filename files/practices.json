@@ -487,6 +487,25 @@
                     "isAvailable": true
                 },
                 {
+                    "id": 886640251,
+                    "dayNumber": "2",
+                    "title": "Техническое обучение сайту",
+                    "description": "",
+                    "duration": 177,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "как работать на сайте - куда нажимать и что такое приват! и да все чаты бесплатные - пока вы не договоритесь на платный чат",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/IMG_8195+(1).MP4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
+                {
                     "id": 8866251,
                     "dayNumber": "2",
                     "title": "Как работать на этом сайте",
