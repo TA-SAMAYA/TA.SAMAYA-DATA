@@ -435,6 +435,25 @@
                     "startDate": null,
                     "isAvailable": true
                 },
+                    {
+                    "id": 9594230644614,
+                    "dayNumber": "3",
+                    "title": "Разборы предыдущей группы",
+                    "description": "Бонус",
+                    "duration": 206,
+                    "banner": null,
+                    "accessCode": null,
+                    "durationMeasuring": "minutes",
+                    "lessonTitle": "На анкете нет людей - что делать и как завести в приват",
+                    "lessonContent": [],
+                    "media": {
+                        "uri": "https://gcodetrue.s3.eu-west-2.amazonaws.com/record-1_nV8bA1lA.mp4",
+                        "type": "video"
+                    },
+                    "availableDays": 90,
+                    "startDate": null,
+                    "isAvailable": true
+                },
                 {
                     "id": 783930202,
                     "dayNumber": "4",
